@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Brand,Shelf_Position,Store_Type,Region,Price,Discount,Units_Sold,Revenue,Customer_Age,Gender,Purchase_Date
+1001,Notebook,Stationery,BrandB,Eye Level,Convenience Store,North,69.52,10,130,8133.84,55,Female,2025-04-25
+1002,Milk,Dairy,BrandA,Middle,Convenience Store,West,205.52,5,263,51349.17,32,Female,2025-11-05
+1003,Face Wash,Cosmetics,BrandD,Top,Hypermarket,South,1622.67,0,86,139549.62,31,Female,2025-12-24
+1004,Milk,Dairy,BrandC,Eye Level,Convenience Store,West,772.26,10,181,125801.15,52,Male,2025-11-06
+1005,Headphones,Electronics,BrandB,Eye Level,Supermarket,South,1113.04,30,190,148034.32,36,Male,2025-10-23
+1006,Chips,Snacks,BrandC,Top,Supermarket,East,772.65,15,191,125439.73,62,Other,2025-03-25
+1007,Notebook,Stationery,BrandB,Bottom,Hypermarket,East,1226.08,5,278,323807.73,58,Other,2025-05-06
+1008,Soap,Cosmetics,BrandA,Top,Hypermarket,East,1375.54,30,33,31774.97,22,Male,2025-04-28
+1009,Face Wash,Cosmetics,BrandD,Middle,Hypermarket,South,441.0,15,207,77593.95,33,Other,2025-11-26
+1010,Perfume,Cosmetics,BrandD,Top,Supermarket,South,540.23,20,224,96809.22,50,Female,2025-10-26
+1011,Milk,Dairy,BrandD,Eye Level,Hypermarket,West,1724.98,5,86,140930.87,56,Female,2025-12-15
+1012,Face Wash,Cosmetics,BrandA,Top,Convenience Store,East,1942.74,30,10,13599.18,25,Female,2025-12-15
+1013,Mouse,Electronics,BrandB,Eye Level,Convenience Store,East,918.37,25,139,95740.07,58,Other,2025-09-14
+1014,Soap,Cosmetics,BrandE,Eye Level,Convenience Store,East,322.62,30,87,19647.56,49,Male,2025-10-04
+1015,Butter,Dairy,BrandA,Middle,Convenience Store,North,1759.87,30,162,199569.26,23,Other,2025-05-03
+1016,Headphones,Electronics,BrandD,Middle,Hypermarket,West,1956.41,20,69,107993.83,31,Other,2025-03-07
+1017,Pen,Stationery,BrandE,Bottom,Supermarket,South,1431.64,15,196,238511.22,32,Male,2025-08-13
+1018,Tea,Beverages,BrandA,Eye Level,Supermarket,North,1184.85,5,117,131696.08,20,Female,2025-01-04
+1019,Paneer,Dairy,BrandE,Middle,Convenience Store,West,491.25,25,253,93214.69,33,Female,2025-04-20
+1020,Mouse,Electronics,BrandD,Bottom,Hypermarket,North,206.77,25,225,34892.44,61,Other,2025-07-01
+1021,Notebook,Stationery,BrandB,Middle,Supermarket,West,140.01,25,178,18691.33,26,Female,2025-02-25
+1022,Cookies,Snacks,BrandE,Eye Level,Supermarket,North,936.0,30,43,28173.6,23,Male,2025-08-15
+1023,Namkeen,Snacks,BrandB,Bottom,Supermarket,West,981.57,5,210,195823.21,34,Female,2025-01-31
+1024,Soft Drink,Beverages,BrandD,Middle,Supermarket,East,1399.25,25,289,303287.44,31,Male,2025-12-05
+1025,Perfume,Cosmetics,BrandE,Bottom,Convenience Store,South,140.7,10,34,4305.42,21,Other,2025-01-26
+1026,Cheese,Dairy,BrandA,Middle,Convenience Store,North,155.67,0,125,19458.75,57,Male,2025-07-26
+1027,Power Bank,Electronics,BrandC,Middle,Hypermarket,West,1139.15,10,138,141482.43,26,Other,2025-04-15
+1028,Pencil,Stationery,BrandD,Eye Level,Supermarket,South,925.3,30,42,27203.82,50,Female,2025-01-05
+1029,Cookies,Snacks,BrandB,Bottom,Convenience Store,East,1764.11,5,194,325125.47,57,Other,2025-05-26
+1030,Shampoo,Cosmetics,BrandA,Middle,Hypermarket,North,1342.37,20,158,169675.57,24,Other,2025-12-06
+1031,Soap,Cosmetics,BrandB,Top,Convenience Store,West,559.25,20,112,50108.8,34,Male,2025-06-25
+1032,Curd,Dairy,BrandB,Top,Supermarket,West,1662.11,0,6,9972.66,53,Other,2025-06-20
+1033,Power Bank,Electronics,BrandA,Top,Convenience Store,South,39.15,0,81,3171.15,45,Male,2025-10-07
+1034,Butter,Dairy,BrandB,Middle,Convenience Store,North,742.01,30,25,12985.17,40,Other,2025-07-03
+1035,Power Bank,Electronics,BrandD,Eye Level,Supermarket,East,1503.97,5,88,125731.89,44,Other,2025-04-01
+1036,Pen,Stationery,BrandA,Bottom,Supermarket,South,548.28,30,60,23027.76,47,Female,2025-07-15
+1037,Coffee,Beverages,BrandC,Top,Supermarket,East,461.39,25,103,35642.38,40,Other,2025-07-24
+1038,Cream,Cosmetics,BrandA,Eye Level,Hypermarket,South,1365.45,30,279,266672.38,55,Female,2025-06-19
+1039,Milk,Dairy,BrandE,Eye Level,Hypermarket,South,1201.21,10,165,178379.68,34,Male,2025-08-12
+1040,Marker,Stationery,BrandB,Top,Hypermarket,North,23.35,30,280,4576.6,60,Female,2025-12-18
+1041,Face Wash,Cosmetics,BrandC,Bottom,Hypermarket,West,1333.51,0,158,210694.58,62,Female,2025-09-17
+1042,Soap,Cosmetics,BrandB,Top,Hypermarket,North,399.84,25,199,59676.12,37,Female,2025-12-13
+1043,Namkeen,Snacks,BrandD,Bottom,Convenience Store,South,1575.8,20,169,213048.16,50,Female,2025-08-27
+1044,Pen,Stationery,BrandE,Top,Supermarket,South,1324.52,10,268,319474.22,61,Female,2025-12-06
+1045,Biscuits,Snacks,BrandE,Eye Level,Hypermarket,West,311.76,0,130,40528.8,58,Other,2025-09-01
+1046,Namkeen,Snacks,BrandA,Eye Level,Hypermarket,South,998.87,5,80,75914.12,29,Other,2025-12-02
+1047,Cream,Cosmetics,BrandB,Bottom,Convenience Store,East,119.43,5,67,7601.72,46,Other,2025-08-22
+1048,Folder,Stationery,BrandD,Bottom,Hypermarket,South,864.95,20,233,161226.68,58,Female,2025-03-23
+1049,Cream,Cosmetics,BrandC,Middle,Hypermarket,East,1260.96,10,230,261018.72,38,Other,2025-02-09
+1050,Cheese,Dairy,BrandB,Eye Level,Hypermarket,West,318.64,15,83,22480.05,39,Other,2025-12-28
+1051,Speaker,Electronics,BrandE,Eye Level,Convenience Store,West,143.29,30,220,22066.66,48,Male,2025-07-19
+1052,Juice,Beverages,BrandE,Middle,Hypermarket,South,1511.88,30,219,231771.2,35,Female,2025-10-03
+1053,Headphones,Electronics,BrandD,Middle,Convenience Store,North,789.94,25,212,125600.46,43,Other,2025-03-26
+1054,Shampoo,Cosmetics,BrandB,Eye Level,Hypermarket,West,186.22,15,74,11713.24,38,Male,2025-08-25
+1055,Keyboard,Electronics,BrandC,Eye Level,Hypermarket,North,688.25,15,147,85996.84,65,Other,2025-08-04
+1056,Butter,Dairy,BrandB,Middle,Supermarket,South,463.96,0,25,11599.0,33,Male,2025-01-16
+1057,Headphones,Electronics,BrandC,Top,Supermarket,North,1136.66,5,243,262397.96,28,Female,2025-12-25
+1058,Paneer,Dairy,BrandD,Bottom,Convenience Store,South,70.84,10,299,19063.04,22,Other,2025-12-13
+1059,Pen,Stationery,BrandE,Eye Level,Convenience Store,North,221.76,30,159,24681.89,40,Other,2025-12-17
+1060,Keyboard,Electronics,BrandD,Bottom,Supermarket,West,156.53,25,179,21014.15,41,Other,2025-01-07
+1061,Mouse,Electronics,BrandC,Bottom,Hypermarket,West,882.26,25,272,179981.04,64,Other,2025-11-30
+1062,Juice,Beverages,BrandD,Middle,Hypermarket,West,1706.39,30,49,58529.18,39,Male,2025-05-23
+1063,Keyboard,Electronics,BrandC,Top,Convenience Store,East,380.04,5,186,67153.07,53,Male,2025-05-13
+1064,Soap,Cosmetics,BrandE,Middle,Convenience Store,West,189.51,25,213,30274.22,59,Other,2025-09-08
+1065,Speaker,Electronics,BrandD,Middle,Hypermarket,East,1590.01,0,155,246451.55,48,Other,2025-04-24
+1066,Face Wash,Cosmetics,BrandC,Bottom,Hypermarket,East,862.5,25,286,185006.25,34,Male,2025-06-19
+1067,Cheese,Dairy,BrandB,Middle,Supermarket,West,644.78,25,279,134920.21,35,Other,2025-12-20
+1068,Perfume,Cosmetics,BrandB,Top,Supermarket,East,1201.65,0,104,124971.6,18,Other,2025-06-01
+1069,Soap,Cosmetics,BrandB,Bottom,Supermarket,North,563.14,0,288,162184.32,54,Female,2025-05-30
+1070,Speaker,Electronics,BrandD,Eye Level,Supermarket,West,892.13,5,31,26273.23,49,Male,2025-05-10
+1071,Shampoo,Cosmetics,BrandA,Middle,Supermarket,West,320.42,30,293,65718.14,56,Other,2025-06-05
+1072,Soap,Cosmetics,BrandC,Bottom,Hypermarket,North,1555.87,15,235,310785.03,57,Other,2025-08-15
+1073,Cheese,Dairy,BrandB,Middle,Convenience Store,North,1258.52,10,46,52102.73,28,Male,2025-03-22
+1074,Speaker,Electronics,BrandB,Top,Convenience Store,East,1384.95,15,154,181289.96,62,Female,2025-01-17
+1075,Cheese,Dairy,BrandA,Middle,Convenience Store,South,1849.34,30,106,137221.03,35,Male,2025-08-06
+1076,Milk,Dairy,BrandD,Eye Level,Hypermarket,East,348.53,10,296,92848.39,62,Female,2025-05-28
+1077,Water,Beverages,BrandA,Bottom,Convenience Store,East,1089.16,15,46,42586.16,56,Female,2025-11-03
+1078,Milk,Dairy,BrandA,Top,Convenience Store,North,473.27,25,299,106130.8,29,Female,2025-10-28
+1079,Cream,Cosmetics,BrandD,Eye Level,Hypermarket,East,1833.82,5,228,397205.41,44,Female,2025-11-22
+1080,Tea,Beverages,BrandD,Top,Convenience Store,West,1718.31,10,215,332492.98,53,Male,2025-12-22
+1081,Headphones,Electronics,BrandE,Eye Level,Convenience Store,West,642.74,10,64,37021.82,44,Male,2025-07-26
+1082,Popcorn,Snacks,BrandD,Eye Level,Supermarket,East,736.32,30,260,134010.24,53,Male,2025-11-17
+1083,Soft Drink,Beverages,BrandE,Middle,Convenience Store,South,1764.08,15,67,100464.36,37,Other,2025-01-15
+1084,Paneer,Dairy,BrandA,Middle,Hypermarket,East,827.82,5,63,49545.03,50,Other,2025-08-25
+1085,Soft Drink,Beverages,BrandE,Middle,Hypermarket,South,1672.75,15,129,183417.04,56,Other,2025-08-22
+1086,Pen,Stationery,BrandE,Top,Supermarket,East,1730.77,10,217,338019.38,64,Female,2025-06-24
+1087,Perfume,Cosmetics,BrandE,Bottom,Hypermarket,East,1997.83,15,81,137550.6,53,Other,2025-08-17
+1088,Speaker,Electronics,BrandB,Bottom,Supermarket,West,1867.05,30,101,132000.43,20,Female,2025-12-24
+1089,Marker,Stationery,BrandB,Bottom,Supermarket,South,1416.35,30,200,198289.0,50,Other,2025-07-17
+1090,Tea,Beverages,BrandD,Eye Level,Convenience Store,South,1750.9,15,56,83342.84,44,Other,2025-09-27
+1091,Chips,Snacks,BrandD,Eye Level,Hypermarket,West,949.59,10,178,152124.32,38,Other,2025-11-16
+1092,Marker,Stationery,BrandC,Middle,Convenience Store,North,1747.32,0,40,69892.8,45,Male,2025-05-01
+1093,Notebook,Stationery,BrandA,Top,Supermarket,East,898.48,25,158,106469.88,40,Female,2025-01-15
+1094,Mouse,Electronics,BrandB,Middle,Supermarket,North,503.51,15,294,125827.15,57,Female,2025-12-16
+1095,Soap,Cosmetics,BrandD,Top,Hypermarket,East,1005.38,20,78,62735.71,60,Male,2025-04-29
+1096,Keyboard,Electronics,BrandC,Top,Convenience Store,West,1361.67,5,42,54330.63,62,Female,2025-08-15
+1097,Keyboard,Electronics,BrandB,Bottom,Convenience Store,East,414.45,15,252,88775.19,54,Female,2025-02-24
+1098,Pencil,Stationery,BrandA,Eye Level,Convenience Store,West,63.44,30,207,9192.46,36,Male,2025-05-21
+1099,Face Wash,Cosmetics,BrandB,Eye Level,Convenience Store,North,453.63,5,133,57316.15,37,Female,2025-12-14
+1100,Paneer,Dairy,BrandC,Bottom,Supermarket,South,742.43,5,51,35970.73,26,Other,2025-06-01
+1101,Water,Beverages,BrandD,Top,Convenience Store,East,1013.55,10,89,81185.35,25,Female,2025-05-12
+1102,Cheese,Dairy,BrandC,Eye Level,Hypermarket,North,1513.22,5,208,299012.27,34,Other,2025-10-13
+1103,Curd,Dairy,BrandD,Top,Supermarket,South,749.8,25,139,78166.65,48,Male,2025-10-27
+1104,Perfume,Cosmetics,BrandA,Bottom,Convenience Store,East,669.45,20,118,63196.08,59,Female,2025-11-28
+1105,Cheese,Dairy,BrandA,Eye Level,Supermarket,South,109.79,0,160,17566.4,42,Female,2025-09-10
+1106,Water,Beverages,BrandA,Bottom,Convenience Store,West,849.87,25,84,53541.81,35,Male,2025-08-01
+1107,Pencil,Stationery,BrandA,Top,Convenience Store,East,450.19,15,125,47832.69,21,Female,2025-07-05
+1108,Coffee,Beverages,BrandB,Eye Level,Supermarket,East,1937.05,30,237,321356.59,33,Male,2025-02-16
+1109,Soap,Cosmetics,BrandE,Middle,Supermarket,East,155.85,30,288,31419.36,27,Other,2025-04-17
+1110,Butter,Dairy,BrandC,Middle,Supermarket,North,1719.64,5,71,115989.72,26,Male,2025-10-04
+1111,Coffee,Beverages,BrandA,Middle,Convenience Store,West,1185.93,0,94,111477.42,51,Male,2025-05-16
+1112,Notebook,Stationery,BrandE,Eye Level,Hypermarket,South,962.97,30,190,128075.01,57,Male,2025-09-20
+1113,Folder,Stationery,BrandD,Bottom,Hypermarket,North,617.23,25,20,9258.45,49,Other,2025-02-01
+1114,Headphones,Electronics,BrandB,Top,Convenience Store,East,1800.55,10,80,129639.6,42,Other,2025-02-03
+1115,Face Wash,Cosmetics,BrandA,Middle,Hypermarket,West,918.36,20,225,165304.8,32,Female,2025-02-20
+1116,Soft Drink,Beverages,BrandD,Top,Convenience Store,East,809.49,25,53,32177.23,41,Male,2025-06-10
+1117,Marker,Stationery,BrandD,Eye Level,Convenience Store,East,152.92,30,48,5138.11,26,Other,2025-02-17
+1118,Paneer,Dairy,BrandA,Bottom,Hypermarket,West,1914.12,20,173,264914.21,64,Male,2025-12-10
+1119,Water,Beverages,BrandB,Middle,Convenience Store,West,638.65,0,300,191595.0,32,Male,2025-09-17
+1120,Water,Beverages,BrandB,Bottom,Convenience Store,North,747.77,30,147,76945.53,56,Other,2025-10-21
+1121,Pencil,Stationery,BrandC,Eye Level,Supermarket,South,77.33,10,163,11344.31,54,Other,2025-06-23
+1122,Headphones,Electronics,BrandE,Middle,Hypermarket,West,300.91,25,20,4513.65,47,Female,2025-02-16
+1123,Cookies,Snacks,BrandA,Eye Level,Supermarket,South,637.04,10,295,169134.12,57,Male,2025-11-02
+1124,Notebook,Stationery,BrandE,Bottom,Hypermarket,East,558.76,25,222,93033.54,31,Other,2025-09-06
+1125,Butter,Dairy,BrandC,Eye Level,Supermarket,West,871.23,10,254,199163.18,56,Male,2025-09-27
+1126,Cheese,Dairy,BrandC,Top,Supermarket,North,616.81,5,75,43947.71,49,Other,2025-05-11
+1127,Mouse,Electronics,BrandE,Top,Supermarket,West,275.79,20,122,26917.1,65,Male,2025-09-14
+1128,Headphones,Electronics,BrandD,Bottom,Convenience Store,West,930.31,0,165,153501.15,36,Male,2025-10-22
+1129,Headphones,Electronics,BrandC,Eye Level,Hypermarket,North,1933.08,5,240,440742.24,33,Female,2025-12-20
+1130,Cream,Cosmetics,BrandB,Top,Supermarket,North,1057.45,15,163,146509.7,50,Other,2025-06-23
+1131,Paneer,Dairy,BrandB,Middle,Supermarket,South,1029.71,30,183,131905.85,34,Male,2025-06-29
+1132,Popcorn,Snacks,BrandD,Bottom,Convenience Store,West,322.68,30,43,9712.67,61,Other,2025-04-01
+1133,Folder,Stationery,BrandD,Eye Level,Hypermarket,West,659.95,25,166,82163.78,58,Female,2025-03-19
+1134,Water,Beverages,BrandD,Bottom,Supermarket,North,131.22,20,42,4408.99,41,Female,2025-06-08
+1135,Milk,Dairy,BrandE,Eye Level,Hypermarket,South,1237.72,20,201,199025.38,38,Other,2025-08-25
+1136,Power Bank,Electronics,BrandC,Eye Level,Convenience Store,South,318.7,0,235,74894.5,20,Male,2025-02-22
+1137,Marker,Stationery,BrandB,Top,Hypermarket,East,1982.15,20,272,431315.84,42,Female,2025-11-09
+1138,Water,Beverages,BrandC,Eye Level,Convenience Store,West,123.68,25,176,16325.76,36,Female,2025-02-03
+1139,Folder,Stationery,BrandB,Top,Hypermarket,West,1749.09,10,46,72412.33,26,Other,2025-10-26
+1140,Notebook,Stationery,BrandE,Eye Level,Convenience Store,West,632.97,15,173,93078.24,50,Female,2025-03-07
+1141,Butter,Dairy,BrandB,Middle,Supermarket,South,631.55,5,179,107395.08,22,Female,2025-09-06
+1142,Paneer,Dairy,BrandC,Middle,Convenience Store,West,1546.33,30,274,296586.09,27,Male,2025-01-20
+1143,Popcorn,Snacks,BrandD,Top,Convenience Store,South,1621.91,5,229,352846.52,46,Other,2025-01-23
+1144,Soft Drink,Beverages,BrandB,Top,Convenience Store,West,483.33,5,163,74843.65,47,Female,2025-08-29
+1145,Power Bank,Electronics,BrandB,Top,Supermarket,West,1064.37,5,107,108193.21,41,Other,2025-11-06
+1146,Paneer,Dairy,BrandC,Bottom,Convenience Store,South,1705.31,10,47,72134.61,45,Male,2025-03-24
+1147,Namkeen,Snacks,BrandD,Top,Supermarket,West,1771.57,0,217,384430.69,23,Female,2025-01-28
+1148,Chips,Snacks,BrandB,Eye Level,Hypermarket,West,651.0,0,176,114576.0,62,Male,2025-03-16
+1149,Marker,Stationery,BrandC,Middle,Supermarket,West,908.23,0,45,40870.35,25,Female,2025-01-10
+1150,Cookies,Snacks,BrandE,Bottom,Supermarket,North,261.26,5,219,54355.14,49,Other,2025-11-24
+1151,Shampoo,Cosmetics,BrandC,Bottom,Supermarket,East,1271.27,20,128,130178.05,33,Other,2025-03-15
+1152,Mouse,Electronics,BrandA,Eye Level,Hypermarket,West,1335.46,0,273,364580.58,20,Other,2025-07-04
+1153,Keyboard,Electronics,BrandC,Middle,Convenience Store,North,522.23,0,187,97657.01,55,Other,2025-02-04
+1154,Coffee,Beverages,BrandB,Bottom,Convenience Store,West,107.78,20,178,15347.87,58,Male,2025-11-26
+1155,Chips,Snacks,BrandB,Eye Level,Supermarket,North,1437.77,15,23,28108.4,38,Female,2025-05-31
+1156,Cream,Cosmetics,BrandA,Middle,Hypermarket,East,1978.46,20,247,390943.7,21,Other,2025-05-10
+1157,Juice,Beverages,BrandD,Bottom,Hypermarket,South,266.46,10,228,54677.59,49,Other,2025-07-24
+1158,Keyboard,Electronics,BrandD,Eye Level,Hypermarket,South,1850.13,20,141,208694.66,52,Female,2025-02-12
+1159,Tea,Beverages,BrandD,Bottom,Supermarket,West,178.54,25,156,20889.18,40,Female,2025-06-06
+1160,Butter,Dairy,BrandA,Eye Level,Convenience Store,West,1237.41,15,145,152510.78,41,Other,2025-11-24
+1161,Pen,Stationery,BrandB,Eye Level,Supermarket,East,1906.52,5,229,414763.43,41,Female,2025-01-18
+1162,Shampoo,Cosmetics,BrandC,Bottom,Supermarket,South,1218.09,25,235,214688.36,51,Female,2025-07-09
+1163,Keyboard,Electronics,BrandB,Bottom,Convenience Store,West,1306.13,5,63,78171.88,53,Male,2025-01-14
+1164,Juice,Beverages,BrandD,Middle,Supermarket,South,1413.99,5,151,202836.87,22,Female,2025-12-22
+1165,Namkeen,Snacks,BrandC,Eye Level,Convenience Store,East,1994.58,30,168,234562.61,37,Male,2025-12-08
+1166,Pen,Stationery,BrandB,Middle,Supermarket,West,1591.52,20,119,151512.7,19,Female,2025-03-04
+1167,Perfume,Cosmetics,BrandE,Eye Level,Supermarket,East,750.44,30,287,150763.4,43,Other,2025-03-08
+1168,Marker,Stationery,BrandA,Middle,Hypermarket,North,1060.88,30,214,158919.82,46,Female,2025-10-22
+1169,Folder,Stationery,BrandE,Middle,Supermarket,West,702.14,30,287,141059.93,50,Male,2025-11-24
+1170,Paneer,Dairy,BrandB,Top,Convenience Store,East,322.97,5,87,26693.47,23,Female,2025-06-15
+1171,Popcorn,Snacks,BrandE,Eye Level,Convenience Store,South,563.41,25,160,67609.2,55,Other,2025-11-11
+1172,Biscuits,Snacks,BrandA,Eye Level,Supermarket,North,1324.29,25,177,175799.5,59,Other,2025-10-16
+1173,Coffee,Beverages,BrandE,Top,Convenience Store,East,1538.58,15,20,26155.86,48,Male,2025-09-12
+1174,Marker,Stationery,BrandD,Bottom,Hypermarket,West,608.92,0,35,21312.2,31,Female,2025-03-22
+1175,Soap,Cosmetics,BrandD,Middle,Hypermarket,North,638.91,25,168,80502.66,38,Male,2025-06-26
+1176,Headphones,Electronics,BrandA,Top,Hypermarket,West,549.59,5,77,40202.51,33,Male,2025-02-19
+1177,Water,Beverages,BrandE,Bottom,Hypermarket,East,1447.83,5,86,118287.71,49,Male,2025-09-13
+1178,Curd,Dairy,BrandC,Eye Level,Supermarket,East,1020.78,5,115,111520.21,49,Other,2025-10-26
+1179,Marker,Stationery,BrandB,Top,Convenience Store,East,585.78,0,60,35146.8,43,Female,2025-08-09
+1180,Curd,Dairy,BrandE,Top,Supermarket,West,121.29,20,104,10091.33,50,Female,2025-07-05
+1181,Face Wash,Cosmetics,BrandA,Bottom,Hypermarket,East,1654.12,20,65,86014.24,53,Female,2025-03-07
+1182,Biscuits,Snacks,BrandA,Eye Level,Supermarket,East,1212.88,15,261,269077.43,48,Other,2025-01-21
+1183,Mouse,Electronics,BrandE,Top,Supermarket,West,1220.4,20,76,74200.32,57,Other,2025-06-17
+1184,Water,Beverages,BrandD,Top,Hypermarket,North,686.02,30,265,127256.71,41,Female,2025-09-30
+1185,Notebook,Stationery,BrandA,Bottom,Hypermarket,South,1960.2,20,162,254041.92,64,Male,2025-12-19
+1186,Cream,Cosmetics,BrandB,Eye Level,Convenience Store,North,357.61,25,199,53373.29,30,Male,2025-03-17
+1187,Keyboard,Electronics,BrandE,Bottom,Convenience Store,North,849.18,15,109,78676.53,63,Male,2025-07-30
+1188,Soap,Cosmetics,BrandD,Top,Supermarket,West,1130.56,25,249,211132.08,52,Female,2025-09-27
+1189,Face Wash,Cosmetics,BrandD,Middle,Supermarket,East,1358.22,30,140,133105.56,53,Female,2025-11-09
+1190,Cookies,Snacks,BrandD,Top,Hypermarket,East,1546.93,25,111,128781.92,53,Other,2025-12-20
+1191,Juice,Beverages,BrandD,Top,Supermarket,East,261.31,25,283,55463.05,20,Female,2025-07-14
+1192,Notebook,Stationery,BrandB,Middle,Convenience Store,East,705.8,15,136,81590.48,53,Other,2025-09-03
+1193,Coffee,Beverages,BrandA,Middle,Convenience Store,South,236.27,25,127,22504.72,21,Male,2025-05-05
+1194,Keyboard,Electronics,BrandE,Middle,Hypermarket,West,1440.37,0,75,108027.75,48,Other,2025-01-03
+1195,Cookies,Snacks,BrandE,Middle,Convenience Store,North,655.91,25,35,17217.64,29,Female,2025-02-15
+1196,Chips,Snacks,BrandC,Eye Level,Supermarket,East,1994.4,15,258,437371.92,54,Other,2025-04-06
+1197,Butter,Dairy,BrandD,Middle,Convenience Store,West,583.43,25,283,123833.02,35,Male,2025-09-26
+1198,Butter,Dairy,BrandA,Top,Hypermarket,South,341.74,15,136,39505.14,29,Other,2025-04-06
+1199,Marker,Stationery,BrandD,Eye Level,Supermarket,South,1657.44,20,172,228063.74,48,Female,2025-02-14
+1200,Chips,Snacks,BrandC,Top,Convenience Store,North,536.35,5,233,118721.07,34,Other,2025-05-17
+1201,Coffee,Beverages,BrandB,Bottom,Convenience Store,East,143.01,0,243,34751.43,62,Male,2025-06-07
+1202,Pencil,Stationery,BrandD,Middle,Hypermarket,East,747.74,5,117,83111.3,44,Other,2025-03-10
+1203,Cream,Cosmetics,BrandE,Eye Level,Convenience Store,West,1519.55,30,116,123387.46,51,Other,2025-05-07
+1204,Tea,Beverages,BrandE,Middle,Convenience Store,South,1836.14,0,36,66101.04,28,Female,2025-10-08
+1205,Cream,Cosmetics,BrandE,Bottom,Supermarket,West,250.16,5,255,60601.26,26,Other,2025-02-16
+1206,Speaker,Electronics,BrandC,Eye Level,Hypermarket,East,1136.54,20,241,219124.91,18,Other,2025-12-11
+1207,Popcorn,Snacks,BrandA,Eye Level,Supermarket,West,164.6,15,181,25323.71,20,Female,2025-12-25
+1208,Mouse,Electronics,BrandD,Bottom,Hypermarket,West,1542.56,30,220,237554.24,23,Other,2025-07-11
+1209,Folder,Stationery,BrandB,Bottom,Convenience Store,South,283.32,30,183,36293.29,64,Male,2025-03-02
+1210,Milk,Dairy,BrandE,Bottom,Supermarket,South,1957.41,15,283,470854.98,47,Female,2025-08-06
+1211,Cookies,Snacks,BrandD,Eye Level,Supermarket,South,393.19,25,62,18283.33,22,Male,2025-01-17
+1212,Shampoo,Cosmetics,BrandA,Bottom,Hypermarket,South,903.95,25,29,19660.91,52,Male,2025-05-06
+1213,Cheese,Dairy,BrandC,Top,Supermarket,East,1017.71,10,124,113576.44,27,Other,2025-10-22
+1214,Soap,Cosmetics,BrandE,Middle,Convenience Store,West,838.85,10,36,27178.74,53,Female,2025-10-13
+1215,Butter,Dairy,BrandC,Bottom,Hypermarket,South,1884.34,25,200,282651.0,37,Female,2025-09-26
+1216,Popcorn,Snacks,BrandB,Bottom,Supermarket,West,957.57,30,120,80435.88,44,Other,2025-06-03
+1217,Soap,Cosmetics,BrandA,Bottom,Hypermarket,North,789.07,10,109,77407.77,52,Other,2025-06-19
+1218,Chips,Snacks,BrandB,Middle,Hypermarket,South,551.55,25,25,10341.56,39,Female,2025-02-07
+1219,Cheese,Dairy,BrandB,Middle,Hypermarket,South,1875.58,25,65,91434.52,53,Female,2025-09-03
+1220,Soft Drink,Beverages,BrandC,Top,Convenience Store,West,943.18,25,188,132988.38,47,Male,2025-06-07
+1221,Marker,Stationery,BrandC,Bottom,Supermarket,South,1528.03,10,109,149899.74,65,Male,2025-07-09
+1222,Butter,Dairy,BrandB,Middle,Hypermarket,South,1115.56,20,218,194553.66,42,Other,2025-06-01
+1223,Namkeen,Snacks,BrandD,Bottom,Hypermarket,South,1110.27,25,177,147388.34,64,Female,2025-05-12
+1224,Biscuits,Snacks,BrandA,Eye Level,Supermarket,North,1446.22,15,99,121699.41,18,Female,2025-10-05
+1225,Biscuits,Snacks,BrandE,Bottom,Hypermarket,North,154.58,5,9,1321.66,57,Other,2025-04-22
+1226,Folder,Stationery,BrandA,Bottom,Supermarket,North,1827.25,25,254,348091.12,51,Other,2025-01-09
+1227,Water,Beverages,BrandD,Middle,Supermarket,North,1955.41,0,262,512317.42,51,Male,2025-12-24
+1228,Biscuits,Snacks,BrandD,Eye Level,Hypermarket,West,1247.17,10,186,208776.26,47,Other,2025-05-17
+1229,Biscuits,Snacks,BrandA,Eye Level,Hypermarket,West,613.95,30,46,19769.19,42,Other,2025-12-01
+1230,Headphones,Electronics,BrandD,Bottom,Convenience Store,East,1280.76,25,92,88372.44,54,Male,2025-02-12
+1231,Shampoo,Cosmetics,BrandC,Eye Level,Supermarket,East,474.94,30,295,98075.11,52,Other,2025-09-01
+1232,Notebook,Stationery,BrandB,Middle,Convenience Store,West,375.12,30,166,43588.94,22,Female,2025-01-09
+1233,Popcorn,Snacks,BrandE,Top,Hypermarket,South,496.13,30,204,70847.36,62,Other,2025-12-13
+1234,Paneer,Dairy,BrandD,Middle,Supermarket,East,1496.0,10,32,43084.8,56,Other,2025-02-20
+1235,Cream,Cosmetics,BrandC,Bottom,Hypermarket,South,1938.46,10,20,34892.28,40,Other,2025-11-21
+1236,Speaker,Electronics,BrandE,Top,Supermarket,North,387.76,20,199,61731.39,23,Female,2025-02-13
+1237,Namkeen,Snacks,BrandC,Top,Supermarket,North,1429.12,25,83,88962.72,18,Female,2025-07-19
+1238,Keyboard,Electronics,BrandB,Bottom,Hypermarket,West,1527.47,0,72,109977.84,24,Male,2025-02-14
+1239,Butter,Dairy,BrandA,Top,Hypermarket,West,1117.36,20,171,152854.85,23,Other,2025-07-17
+1240,Soap,Cosmetics,BrandB,Top,Hypermarket,East,1152.48,5,199,217876.34,49,Male,2025-03-28
+1241,Cheese,Dairy,BrandA,Top,Hypermarket,South,880.66,15,158,118272.64,64,Other,2025-09-05
+1242,Power Bank,Electronics,BrandC,Eye Level,Hypermarket,East,1241.0,15,59,62236.15,57,Female,2025-03-11
+1243,Soft Drink,Beverages,BrandC,Middle,Hypermarket,East,682.78,30,74,35368.0,29,Female,2025-06-03
+1244,Juice,Beverages,BrandB,Top,Hypermarket,East,1475.05,25,256,283209.6,43,Female,2025-10-22
+1245,Paneer,Dairy,BrandE,Eye Level,Convenience Store,West,415.6,20,97,32250.56,63,Male,2025-12-16
+1246,Keyboard,Electronics,BrandD,Middle,Convenience Store,East,1665.94,0,214,356511.16,33,Female,2025-12-11
+1247,Pen,Stationery,BrandD,Bottom,Convenience Store,West,1436.17,30,198,199053.16,52,Other,2025-02-07
+1248,Marker,Stationery,BrandE,Eye Level,Supermarket,South,1096.42,30,189,145056.37,60,Other,2025-12-26
+1249,Coffee,Beverages,BrandD,Top,Hypermarket,North,1301.06,0,293,381210.58,18,Male,2025-11-27
+1250,Coffee,Beverages,BrandE,Middle,Hypermarket,East,1031.14,20,290,239224.48,43,Female,2025-10-25
+1251,Folder,Stationery,BrandD,Eye Level,Hypermarket,West,1387.07,5,181,238506.69,23,Male,2025-01-13
+1252,Pen,Stationery,BrandE,Bottom,Hypermarket,West,709.69,10,238,152015.6,24,Female,2025-04-16
+1253,Marker,Stationery,BrandA,Eye Level,Hypermarket,North,651.44,10,27,15829.99,61,Male,2025-12-30
+1254,Pen,Stationery,BrandE,Bottom,Hypermarket,South,1041.67,20,86,71666.9,43,Other,2025-06-19
+1255,Biscuits,Snacks,BrandE,Middle,Hypermarket,West,1288.15,15,207,226649.99,42,Male,2025-01-15
+1256,Pen,Stationery,BrandA,Middle,Hypermarket,East,427.45,30,37,11070.95,30,Female,2025-10-23
+1257,Butter,Dairy,BrandC,Bottom,Convenience Store,West,1347.99,15,275,315092.66,55,Male,2025-11-24
+1258,Juice,Beverages,BrandC,Eye Level,Convenience Store,South,1694.13,20,93,126043.27,38,Male,2025-12-11
+1259,Cookies,Snacks,BrandD,Bottom,Convenience Store,South,251.56,10,77,17433.11,54,Female,2025-09-19
+1260,Mouse,Electronics,BrandB,Bottom,Hypermarket,South,983.61,20,93,73180.58,29,Female,2025-10-12
+1261,Power Bank,Electronics,BrandB,Middle,Hypermarket,West,126.15,10,9,1021.82,44,Other,2025-09-06
+1262,Speaker,Electronics,BrandA,Eye Level,Supermarket,East,1426.08,15,255,309102.84,20,Female,2025-03-27
+1263,Popcorn,Snacks,BrandD,Eye Level,Convenience Store,North,591.57,30,239,98969.66,35,Other,2025-10-17
+1264,Water,Beverages,BrandB,Bottom,Supermarket,South,1648.77,0,230,379217.1,37,Male,2025-10-07
+1265,Keyboard,Electronics,BrandA,Middle,Supermarket,East,710.18,30,49,24359.17,63,Other,2025-08-13
+1266,Marker,Stationery,BrandA,Top,Convenience Store,East,348.64,5,110,36432.88,56,Other,2025-04-16
+1267,Cookies,Snacks,BrandC,Eye Level,Supermarket,West,1958.42,10,153,269674.43,21,Female,2025-10-21
+1268,Pen,Stationery,BrandC,Middle,Convenience Store,West,1408.82,5,132,176666.03,49,Male,2025-03-16
+1269,Face Wash,Cosmetics,BrandA,Bottom,Convenience Store,East,1263.07,15,236,253371.84,62,Female,2025-02-08
+1270,Speaker,Electronics,BrandC,Eye Level,Convenience Store,West,668.03,0,52,34737.56,31,Female,2025-08-23
+1271,Namkeen,Snacks,BrandE,Middle,Convenience Store,West,551.7,30,150,57928.5,39,Other,2025-06-22
+1272,Milk,Dairy,BrandA,Middle,Hypermarket,West,217.16,30,240,36482.88,18,Female,2025-01-09
+1273,Biscuits,Snacks,BrandA,Top,Hypermarket,North,1766.65,10,86,136738.71,41,Other,2025-05-21
+1274,Pen,Stationery,BrandB,Bottom,Convenience Store,North,122.54,25,161,14796.71,63,Male,2025-12-25
+1275,Cheese,Dairy,BrandD,Eye Level,Supermarket,East,964.08,5,120,109905.12,25,Female,2025-09-23
+1276,Pen,Stationery,BrandA,Eye Level,Hypermarket,East,965.85,5,201,184429.06,37,Male,2025-02-15
+1277,Mouse,Electronics,BrandE,Eye Level,Convenience Store,South,1290.32,25,78,75483.72,46,Female,2025-02-05
+1278,Pen,Stationery,BrandD,Middle,Supermarket,North,1263.6,5,215,258090.3,26,Male,2025-11-12
+1279,Cream,Cosmetics,BrandB,Top,Convenience Store,North,716.04,15,166,101033.24,33,Other,2025-03-13
+1280,Perfume,Cosmetics,BrandC,Middle,Convenience Store,South,1447.94,10,18,23456.63,65,Female,2025-12-04
+1281,Tea,Beverages,BrandD,Eye Level,Supermarket,West,1571.93,30,127,139744.58,58,Other,2025-09-11
+1282,Paneer,Dairy,BrandB,Bottom,Convenience Store,West,1779.67,0,189,336357.63,41,Other,2025-06-12
+1283,Pen,Stationery,BrandE,Eye Level,Supermarket,East,1530.2,30,42,44987.88,31,Male,2025-01-09
+1284,Curd,Dairy,BrandD,Bottom,Supermarket,South,1023.09,25,261,200269.87,35,Male,2025-08-01
+1285,Tea,Beverages,BrandC,Bottom,Convenience Store,North,1032.38,5,84,82383.92,37,Other,2025-10-02
+1286,Mouse,Electronics,BrandD,Eye Level,Hypermarket,South,134.65,0,227,30565.55,25,Male,2025-03-01
+1287,Pen,Stationery,BrandE,Top,Supermarket,East,1408.97,5,259,346677.07,26,Other,2025-06-27
+1288,Tea,Beverages,BrandC,Eye Level,Hypermarket,North,1547.43,0,176,272347.68,49,Female,2025-08-08
+1289,Face Wash,Cosmetics,BrandC,Middle,Hypermarket,North,129.77,30,295,26797.51,54,Other,2025-03-27
+1290,Notebook,Stationery,BrandA,Middle,Supermarket,West,472.24,20,6,2266.75,41,Female,2025-01-23
+1291,Biscuits,Snacks,BrandD,Middle,Hypermarket,South,1863.7,30,23,30005.57,44,Other,2025-10-11
+1292,Juice,Beverages,BrandE,Eye Level,Supermarket,South,1655.47,20,195,258253.32,51,Male,2025-03-03
+1293,Headphones,Electronics,BrandC,Eye Level,Convenience Store,West,1756.44,30,149,183196.69,18,Female,2025-06-09
+1294,Cookies,Snacks,BrandC,Bottom,Supermarket,South,1136.34,10,129,131929.07,27,Male,2025-08-26
+1295,Headphones,Electronics,BrandA,Bottom,Convenience Store,East,481.34,10,9,3898.85,24,Male,2025-06-21
+1296,Soap,Cosmetics,BrandC,Eye Level,Supermarket,South,851.24,0,77,65545.48,51,Female,2025-12-31
+1297,Pencil,Stationery,BrandA,Middle,Convenience Store,West,927.75,25,48,33399.0,22,Other,2025-10-25
+1298,Shampoo,Cosmetics,BrandC,Top,Hypermarket,East,881.27,5,126,105488.02,38,Female,2025-05-30
+1299,Coffee,Beverages,BrandA,Middle,Supermarket,South,167.88,5,74,11801.96,46,Female,2025-10-27
+1300,Soft Drink,Beverages,BrandC,Bottom,Hypermarket,North,259.06,10,111,25880.09,23,Male,2025-08-20
+1301,Pencil,Stationery,BrandC,Middle,Supermarket,South,1656.25,25,25,31054.69,40,Female,2025-04-21
+1302,Shampoo,Cosmetics,BrandD,Bottom,Convenience Store,South,1360.82,10,94,115125.37,24,Female,2025-01-16
+1303,Cheese,Dairy,BrandB,Bottom,Hypermarket,North,260.48,0,118,30736.64,55,Other,2025-03-08
+1304,Tea,Beverages,BrandD,Middle,Supermarket,East,63.16,0,106,6694.96,25,Male,2025-11-27
+1305,Headphones,Electronics,BrandD,Eye Level,Hypermarket,West,352.62,20,226,63753.7,29,Female,2025-07-22
+1306,Biscuits,Snacks,BrandE,Middle,Convenience Store,East,564.46,15,81,38863.07,49,Female,2025-01-18
+1307,Cream,Cosmetics,BrandD,Middle,Convenience Store,South,140.74,10,201,25459.87,58,Other,2025-03-12
+1308,Curd,Dairy,BrandD,Top,Convenience Store,East,1568.19,10,250,352842.75,42,Female,2025-10-06
+1309,Chips,Snacks,BrandA,Bottom,Convenience Store,East,651.38,5,20,12376.22,55,Male,2025-05-24
+1310,Chips,Snacks,BrandA,Middle,Convenience Store,West,510.76,5,141,68416.3,40,Male,2025-10-01
+1311,Biscuits,Snacks,BrandA,Top,Convenience Store,South,1193.19,30,188,157023.8,54,Male,2025-10-30
+1312,Power Bank,Electronics,BrandA,Middle,Convenience Store,South,631.93,15,24,12891.37,19,Other,2025-02-16
+1313,Headphones,Electronics,BrandC,Middle,Hypermarket,North,676.83,20,108,58478.11,19,Male,2025-03-08
+1314,Soap,Cosmetics,BrandA,Top,Convenience Store,West,1553.25,30,274,297913.35,55,Male,2025-07-06
+1315,Juice,Beverages,BrandD,Top,Supermarket,East,658.75,5,228,142685.25,32,Other,2025-11-24
+1316,Soap,Cosmetics,BrandB,Eye Level,Convenience Store,West,769.2,25,155,89419.5,54,Male,2025-03-07
+1317,Popcorn,Snacks,BrandE,Eye Level,Hypermarket,South,650.07,30,118,53695.78,39,Other,2025-11-24
+1318,Cheese,Dairy,BrandA,Top,Hypermarket,North,706.68,10,90,57241.08,34,Male,2025-11-22
+1319,Chips,Snacks,BrandA,Bottom,Hypermarket,West,713.95,30,60,29985.9,28,Female,2025-01-01
+1320,Speaker,Electronics,BrandE,Middle,Supermarket,West,715.44,15,56,34054.94,22,Male,2025-09-03
+1321,Tea,Beverages,BrandB,Bottom,Supermarket,North,651.06,0,42,27344.52,53,Male,2025-06-25
+1322,Water,Beverages,BrandB,Bottom,Supermarket,North,1970.85,15,20,33504.45,24,Female,2025-08-09
+1323,Biscuits,Snacks,BrandC,Top,Supermarket,North,830.37,20,281,186667.18,21,Female,2025-05-16
+1324,Perfume,Cosmetics,BrandA,Bottom,Supermarket,East,1682.91,5,32,51160.46,60,Other,2025-07-04
+1325,Cream,Cosmetics,BrandC,Eye Level,Hypermarket,North,415.36,0,110,45689.6,37,Female,2025-03-29
+1326,Speaker,Electronics,BrandE,Bottom,Supermarket,East,1791.86,10,51,82246.37,42,Female,2025-11-25
+1327,Namkeen,Snacks,BrandB,Top,Convenience Store,North,108.34,15,243,22377.63,27,Other,2025-05-15
+1328,Notebook,Stationery,BrandE,Middle,Convenience Store,North,189.7,10,282,48145.86,42,Other,2025-07-31
+1329,Power Bank,Electronics,BrandD,Top,Supermarket,West,1380.39,15,298,349652.79,63,Male,2025-05-01
+1330,Perfume,Cosmetics,BrandE,Middle,Supermarket,West,1802.9,30,297,374822.91,29,Male,2025-12-13
+1331,Biscuits,Snacks,BrandD,Middle,Convenience Store,South,269.85,15,45,10321.76,56,Female,2025-12-16
+1332,Tea,Beverages,BrandC,Top,Convenience Store,West,192.31,20,208,32000.38,18,Other,2025-10-10
+1333,Perfume,Cosmetics,BrandB,Middle,Convenience Store,North,1054.67,15,62,55581.11,24,Other,2025-08-01
+1334,Butter,Dairy,BrandD,Bottom,Convenience Store,West,1737.6,10,215,336225.6,20,Male,2025-05-16
+1335,Soft Drink,Beverages,BrandD,Top,Convenience Store,South,304.83,20,210,51211.44,21,Other,2025-01-20
+1336,Keyboard,Electronics,BrandC,Top,Hypermarket,North,1796.12,0,177,317913.24,32,Male,2025-06-05
+1337,Soft Drink,Beverages,BrandE,Eye Level,Supermarket,West,1552.58,10,142,198419.72,31,Female,2025-08-02
+1338,Marker,Stationery,BrandE,Middle,Supermarket,East,1523.8,30,196,209065.36,63,Other,2025-01-29
+1339,Mouse,Electronics,BrandB,Middle,Supermarket,North,1565.42,20,296,370691.46,33,Male,2025-01-15
+1340,Headphones,Electronics,BrandC,Bottom,Convenience Store,West,1837.7,25,106,146097.15,58,Male,2025-05-21
+1341,Notebook,Stationery,BrandD,Top,Hypermarket,South,499.04,15,233,98834.87,34,Other,2025-04-01
+1342,Notebook,Stationery,BrandE,Middle,Supermarket,South,584.44,15,30,14903.22,61,Male,2025-03-25
+1343,Soft Drink,Beverages,BrandB,Middle,Convenience Store,North,1036.3,30,9,6528.69,32,Female,2025-08-31
+1344,Face Wash,Cosmetics,BrandD,Top,Hypermarket,East,1431.23,25,145,155646.26,31,Female,2025-08-05
+1345,Water,Beverages,BrandE,Top,Convenience Store,East,1652.14,15,57,80046.18,37,Other,2025-01-04
+1346,Curd,Dairy,BrandC,Top,Supermarket,South,146.4,10,171,22530.96,51,Male,2025-05-22
+1347,Paneer,Dairy,BrandD,Top,Hypermarket,West,820.11,10,76,56095.52,43,Female,2025-01-14
+1348,Notebook,Stationery,BrandB,Bottom,Convenience Store,East,1174.39,20,102,95830.22,50,Female,2025-06-25
+1349,Popcorn,Snacks,BrandC,Middle,Convenience Store,East,378.65,0,246,93147.9,59,Male,2025-03-07
+1350,Cookies,Snacks,BrandC,Top,Hypermarket,East,462.19,30,162,52412.35,47,Male,2025-08-04
+1351,Headphones,Electronics,BrandB,Eye Level,Convenience Store,West,1735.46,20,41,56923.09,51,Female,2025-08-30
+1352,Headphones,Electronics,BrandC,Bottom,Convenience Store,West,1744.28,5,75,124279.95,27,Female,2025-04-13
+1353,Pen,Stationery,BrandB,Top,Convenience Store,North,1562.3,15,175,232392.12,18,Female,2025-11-20
+1354,Coffee,Beverages,BrandD,Eye Level,Supermarket,West,1527.16,5,300,435240.6,58,Female,2025-03-23
+1355,Speaker,Electronics,BrandE,Middle,Convenience Store,East,1931.35,15,7,11491.53,18,Female,2025-01-20
+1356,Soap,Cosmetics,BrandC,Top,Supermarket,North,55.47,0,132,7322.04,42,Other,2025-04-26
+1357,Face Wash,Cosmetics,BrandC,Bottom,Convenience Store,East,350.7,30,28,6873.72,45,Other,2025-06-02
+1358,Cookies,Snacks,BrandB,Bottom,Supermarket,South,1992.36,15,188,318379.13,32,Other,2025-04-07
+1359,Biscuits,Snacks,BrandA,Top,Convenience Store,North,1473.47,20,263,310018.09,42,Other,2025-03-28
+1360,Water,Beverages,BrandA,Eye Level,Supermarket,North,1253.81,20,29,29088.39,44,Female,2025-12-05
+1361,Headphones,Electronics,BrandA,Top,Hypermarket,North,1103.62,15,83,77860.39,60,Other,2025-04-16
+1362,Water,Beverages,BrandE,Eye Level,Hypermarket,North,1219.16,5,219,253646.24,24,Female,2025-02-23
+1363,Popcorn,Snacks,BrandC,Bottom,Hypermarket,South,415.5,10,272,101714.4,20,Other,2025-04-14
+1364,Mouse,Electronics,BrandA,Eye Level,Convenience Store,North,1382.64,15,174,204492.46,25,Other,2025-05-01
+1365,Marker,Stationery,BrandA,Top,Convenience Store,South,315.31,0,266,83872.46,47,Female,2025-02-08
+1366,Soft Drink,Beverages,BrandC,Top,Convenience Store,East,119.16,30,94,7840.73,45,Other,2025-01-21
+1367,Milk,Dairy,BrandB,Top,Hypermarket,West,1705.47,0,9,15349.23,57,Female,2025-03-12
+1368,Notebook,Stationery,BrandD,Bottom,Hypermarket,East,757.79,10,98,66837.08,42,Other,2025-02-28
+1369,Speaker,Electronics,BrandB,Eye Level,Supermarket,North,1304.72,30,90,82197.36,44,Other,2025-02-27
+1370,Power Bank,Electronics,BrandE,Eye Level,Convenience Store,South,1363.22,5,199,257716.74,48,Female,2025-07-03
+1371,Curd,Dairy,BrandC,Eye Level,Convenience Store,South,892.56,0,138,123173.28,60,Female,2025-12-02
+1372,Perfume,Cosmetics,BrandB,Bottom,Hypermarket,West,1382.72,20,53,58627.33,27,Other,2025-08-10
+1373,Shampoo,Cosmetics,BrandD,Middle,Supermarket,West,43.06,5,263,10758.54,38,Male,2025-08-29
+1374,Juice,Beverages,BrandD,Bottom,Supermarket,North,119.69,5,286,32519.77,47,Female,2025-11-26
+1375,Cream,Cosmetics,BrandA,Bottom,Convenience Store,North,194.28,15,233,38477.15,24,Female,2025-06-11
+1376,Headphones,Electronics,BrandE,Top,Convenience Store,South,1123.12,0,51,57279.12,59,Other,2025-11-06
+1377,Keyboard,Electronics,BrandC,Bottom,Convenience Store,East,739.42,0,119,87990.98,63,Female,2025-08-21
+1378,Milk,Dairy,BrandC,Top,Convenience Store,East,1523.45,5,6,8683.67,62,Male,2025-06-24
+1379,Cheese,Dairy,BrandC,Middle,Supermarket,North,995.0,30,214,149051.0,43,Male,2025-02-24
+1380,Mouse,Electronics,BrandE,Eye Level,Hypermarket,West,1439.24,0,217,312315.08,60,Other,2025-01-24
+1381,Soap,Cosmetics,BrandE,Bottom,Convenience Store,West,1928.43,0,276,532246.68,50,Male,2025-01-25
+1382,Folder,Stationery,BrandD,Top,Convenience Store,West,363.83,30,70,17827.67,44,Other,2025-02-23
+1383,Pen,Stationery,BrandB,Middle,Hypermarket,East,561.72,10,155,78359.94,62,Other,2025-08-20
+1384,Water,Beverages,BrandC,Top,Convenience Store,South,1272.51,5,112,135395.06,63,Other,2025-11-16
+1385,Popcorn,Snacks,BrandA,Top,Convenience Store,West,1094.13,25,170,139501.58,55,Other,2025-12-30
+1386,Marker,Stationery,BrandD,Eye Level,Convenience Store,North,1355.0,30,278,263683.0,19,Female,2025-05-27
+1387,Chips,Snacks,BrandC,Top,Supermarket,North,1347.1,5,141,180444.04,62,Female,2025-03-24
+1388,Popcorn,Snacks,BrandE,Middle,Convenience Store,West,83.97,30,236,13871.84,33,Other,2025-02-22
+1389,Pencil,Stationery,BrandD,Top,Convenience Store,North,1392.01,0,200,278402.0,18,Other,2025-07-18
+1390,Coffee,Beverages,BrandC,Middle,Convenience Store,South,1248.71,30,231,201916.41,36,Female,2025-04-26
+1391,Chips,Snacks,BrandD,Eye Level,Hypermarket,East,390.21,5,268,99347.47,53,Female,2025-03-03
+1392,Biscuits,Snacks,BrandD,Middle,Supermarket,South,1176.29,10,7,7410.63,38,Other,2025-06-19
+1393,Paneer,Dairy,BrandE,Top,Supermarket,East,1689.42,10,256,389242.37,51,Male,2025-10-21
+1394,Popcorn,Snacks,BrandE,Bottom,Supermarket,East,154.99,20,86,10663.31,32,Male,2025-08-01
+1395,Pencil,Stationery,BrandE,Bottom,Convenience Store,North,675.51,10,116,70523.24,25,Other,2025-11-13
+1396,Soft Drink,Beverages,BrandC,Bottom,Supermarket,West,495.89,25,129,47977.36,34,Other,2025-01-21
+1397,Pencil,Stationery,BrandE,Bottom,Hypermarket,North,68.92,20,196,10806.66,36,Other,2025-09-21
+1398,Cookies,Snacks,BrandE,Eye Level,Convenience Store,North,1037.51,0,90,93375.9,31,Other,2025-10-03
+1399,Pen,Stationery,BrandE,Bottom,Convenience Store,North,1732.6,15,58,85417.18,65,Other,2025-04-16
+1400,Chips,Snacks,BrandA,Eye Level,Supermarket,East,929.27,10,24,20072.23,53,Male,2025-02-14
+1401,Soap,Cosmetics,BrandD,Bottom,Hypermarket,North,1823.75,15,203,314688.06,42,Other,2025-08-19
+1402,Paneer,Dairy,BrandA,Eye Level,Hypermarket,North,31.68,25,37,879.12,36,Other,2025-10-27
+1403,Water,Beverages,BrandD,Eye Level,Hypermarket,South,191.28,30,229,30662.18,52,Male,2025-07-15
+1404,Namkeen,Snacks,BrandB,Top,Convenience Store,East,1597.61,30,284,317604.87,18,Other,2025-06-01
+1405,Soap,Cosmetics,BrandD,Eye Level,Hypermarket,South,264.01,0,298,78674.98,65,Other,2025-11-02
+1406,Pencil,Stationery,BrandB,Middle,Supermarket,East,439.24,25,267,87957.81,30,Male,2025-03-14
+1407,Popcorn,Snacks,BrandE,Eye Level,Hypermarket,North,1707.46,30,286,341833.49,34,Male,2025-08-25
+1408,Popcorn,Snacks,BrandB,Eye Level,Hypermarket,North,984.64,10,187,165714.91,30,Female,2025-03-07
+1409,Speaker,Electronics,BrandE,Middle,Convenience Store,East,670.13,25,161,80918.2,38,Female,2025-12-22
+1410,Chips,Snacks,BrandD,Top,Hypermarket,South,640.17,30,118,52878.04,61,Other,2025-12-31
+1411,Soft Drink,Beverages,BrandE,Eye Level,Supermarket,North,936.44,10,161,135690.16,35,Male,2025-09-07
+1412,Soap,Cosmetics,BrandA,Eye Level,Convenience Store,West,541.2,25,44,17859.6,55,Male,2025-02-08
+1413,Paneer,Dairy,BrandB,Top,Hypermarket,South,536.02,20,246,105488.74,55,Other,2025-12-01
+1414,Coffee,Beverages,BrandC,Eye Level,Convenience Store,South,940.11,20,51,38356.49,57,Other,2025-07-23
+1415,Popcorn,Snacks,BrandE,Middle,Convenience Store,West,297.93,5,96,27171.22,40,Male,2025-10-17
+1416,Namkeen,Snacks,BrandA,Middle,Convenience Store,East,478.86,10,194,83608.96,42,Female,2025-04-30
+1417,Headphones,Electronics,BrandE,Top,Convenience Store,East,99.01,25,170,12623.78,55,Other,2025-02-22
+1418,Soap,Cosmetics,BrandA,Top,Hypermarket,South,765.79,15,192,124976.93,51,Female,2025-10-28
+1419,Juice,Beverages,BrandB,Bottom,Supermarket,South,983.99,15,8,6691.13,22,Other,2025-09-14
+1420,Pencil,Stationery,BrandE,Eye Level,Convenience Store,South,438.8,5,85,35433.1,44,Female,2025-07-05
+1421,Notebook,Stationery,BrandE,Middle,Convenience Store,West,973.4,15,250,206847.5,19,Male,2025-04-18
+1422,Cheese,Dairy,BrandE,Eye Level,Convenience Store,South,1155.5,5,73,80133.93,21,Male,2025-11-19
+1423,Coffee,Beverages,BrandA,Top,Supermarket,South,1042.95,15,293,259746.7,46,Other,2025-11-23
+1424,Speaker,Electronics,BrandB,Middle,Convenience Store,East,357.72,30,215,53836.86,28,Other,2025-11-04
+1425,Pencil,Stationery,BrandD,Bottom,Supermarket,North,1846.26,20,40,59080.32,19,Male,2025-04-28
+1426,Perfume,Cosmetics,BrandA,Middle,Hypermarket,North,1375.05,30,81,77965.33,52,Other,2025-11-07
+1427,Milk,Dairy,BrandD,Bottom,Hypermarket,North,974.84,5,281,260233.54,62,Other,2025-01-01
+1428,Mouse,Electronics,BrandE,Eye Level,Hypermarket,South,1878.07,15,200,319271.9,34,Female,2025-06-29
+1429,Chips,Snacks,BrandB,Eye Level,Convenience Store,North,580.87,20,214,99444.94,54,Other,2025-05-12
+1430,Paneer,Dairy,BrandC,Bottom,Hypermarket,North,34.24,25,110,2824.8,27,Female,2025-12-19
+1431,Folder,Stationery,BrandE,Top,Convenience Store,East,522.19,30,279,101983.71,61,Female,2025-08-05
+1432,Namkeen,Snacks,BrandC,Bottom,Hypermarket,East,1113.17,20,252,224415.07,54,Female,2025-04-02
+1433,Marker,Stationery,BrandD,Middle,Supermarket,South,1476.85,30,65,67196.68,50,Female,2025-04-28
+1434,Water,Beverages,BrandD,Eye Level,Supermarket,South,1235.77,25,31,28731.65,48,Other,2025-03-24
+1435,Headphones,Electronics,BrandE,Eye Level,Convenience Store,West,146.88,5,194,27069.98,43,Other,2025-02-10
+1436,Folder,Stationery,BrandD,Bottom,Supermarket,South,587.21,20,34,15972.11,60,Other,2025-03-31
+1437,Coffee,Beverages,BrandB,Middle,Convenience Store,North,86.55,20,266,18417.84,41,Male,2025-09-22
+1438,Notebook,Stationery,BrandC,Bottom,Hypermarket,South,1951.78,0,146,284959.88,51,Male,2025-07-24
+1439,Notebook,Stationery,BrandE,Top,Hypermarket,East,1839.97,20,150,220796.4,32,Other,2025-10-14
+1440,Namkeen,Snacks,BrandB,Bottom,Convenience Store,North,1860.83,20,7,10420.65,53,Male,2025-05-14
+1441,Face Wash,Cosmetics,BrandE,Top,Convenience Store,West,693.13,0,267,185065.71,42,Other,2025-05-12
+1442,Mouse,Electronics,BrandD,Eye Level,Hypermarket,North,1519.8,30,239,254262.54,34,Male,2025-12-15
+1443,Mouse,Electronics,BrandC,Eye Level,Convenience Store,East,1360.29,5,166,214517.73,33,Female,2025-07-31
+1444,Curd,Dairy,BrandE,Middle,Hypermarket,East,1353.92,30,180,170593.92,40,Male,2025-02-08
+1445,Face Wash,Cosmetics,BrandB,Middle,Convenience Store,South,381.91,25,102,29216.11,34,Male,2025-09-13
+1446,Biscuits,Snacks,BrandA,Eye Level,Supermarket,West,1673.18,30,187,219019.26,57,Male,2025-03-21
+1447,Shampoo,Cosmetics,BrandE,Top,Hypermarket,South,1699.06,10,166,253839.56,50,Female,2025-09-10
+1448,Mouse,Electronics,BrandD,Bottom,Convenience Store,North,1505.34,5,32,45762.34,50,Female,2025-09-27
+1449,Mouse,Electronics,BrandC,Eye Level,Supermarket,South,925.25,0,270,249817.5,42,Other,2025-08-24
+1450,Butter,Dairy,BrandE,Top,Supermarket,East,735.97,30,137,70579.52,48,Other,2025-04-06
+1451,Juice,Beverages,BrandC,Top,Hypermarket,East,384.15,15,112,36571.08,46,Male,2025-08-03
+1452,Soap,Cosmetics,BrandC,Middle,Convenience Store,West,1958.96,25,122,179244.84,42,Male,2025-02-21
+1453,Biscuits,Snacks,BrandD,Middle,Convenience Store,East,956.51,0,95,90868.45,49,Female,2025-08-04
+1454,Water,Beverages,BrandB,Eye Level,Supermarket,East,1719.83,0,208,357724.64,48,Other,2025-02-20
+1455,Curd,Dairy,BrandE,Top,Hypermarket,North,1494.29,10,189,254178.73,44,Male,2025-07-04
+1456,Water,Beverages,BrandC,Top,Hypermarket,West,413.94,20,280,92722.56,65,Female,2025-03-31
+1457,Curd,Dairy,BrandC,Bottom,Convenience Store,West,1235.05,15,79,82933.61,22,Male,2025-03-27
+1458,Cookies,Snacks,BrandC,Bottom,Hypermarket,West,471.87,10,154,65401.18,41,Other,2025-12-30
+1459,Perfume,Cosmetics,BrandA,Middle,Convenience Store,South,1931.74,15,90,147778.11,60,Female,2025-04-05
+1460,Notebook,Stationery,BrandA,Bottom,Convenience Store,North,436.93,15,57,21169.26,19,Female,2025-02-18
+1461,Shampoo,Cosmetics,BrandD,Top,Supermarket,South,225.78,20,84,15172.42,65,Female,2025-02-13
+1462,Mouse,Electronics,BrandA,Top,Hypermarket,West,279.93,30,92,18027.49,47,Other,2025-01-15
+1463,Water,Beverages,BrandE,Bottom,Convenience Store,West,900.79,25,281,189841.49,51,Other,2025-04-01
+1464,Folder,Stationery,BrandB,Eye Level,Hypermarket,East,633.13,10,251,143024.07,41,Female,2025-10-04
+1465,Coffee,Beverages,BrandC,Top,Hypermarket,North,621.07,0,272,168931.04,62,Female,2025-03-11
+1466,Keyboard,Electronics,BrandB,Eye Level,Convenience Store,East,38.08,15,154,4984.67,30,Female,2025-11-02
+1467,Cream,Cosmetics,BrandB,Top,Supermarket,West,801.61,5,204,155352.02,58,Male,2025-07-13
+1468,Perfume,Cosmetics,BrandE,Top,Hypermarket,South,1619.0,25,144,174852.0,22,Male,2025-05-26
+1469,Cookies,Snacks,BrandE,Bottom,Supermarket,East,238.51,15,236,47845.11,19,Male,2025-05-20
+1470,Paneer,Dairy,BrandB,Bottom,Convenience Store,North,63.82,0,149,9509.18,32,Male,2025-05-18
+1471,Chips,Snacks,BrandD,Top,Hypermarket,North,997.29,10,220,197463.42,39,Male,2025-06-09
+1472,Chips,Snacks,BrandD,Middle,Supermarket,East,547.68,15,41,19086.65,42,Male,2025-10-06
+1473,Cheese,Dairy,BrandB,Bottom,Convenience Store,North,781.9,15,131,87064.56,51,Other,2025-01-18
+1474,Namkeen,Snacks,BrandA,Eye Level,Hypermarket,West,790.46,10,170,120940.38,58,Female,2025-03-23
+1475,Cookies,Snacks,BrandB,Bottom,Hypermarket,North,1777.29,30,116,144315.95,28,Female,2025-02-27
+1476,Shampoo,Cosmetics,BrandE,Bottom,Convenience Store,South,803.7,5,9,6871.64,41,Male,2025-01-22
+1477,Biscuits,Snacks,BrandA,Eye Level,Hypermarket,South,1009.84,25,178,134813.64,62,Other,2025-11-17
+1478,Cheese,Dairy,BrandC,Bottom,Convenience Store,South,985.93,10,290,257327.73,19,Other,2025-11-27
+1479,Keyboard,Electronics,BrandD,Top,Convenience Store,West,1454.31,10,25,32721.98,30,Other,2025-09-06
+1480,Popcorn,Snacks,BrandE,Middle,Supermarket,South,708.38,25,244,129633.54,46,Female,2025-05-21
+1481,Water,Beverages,BrandB,Eye Level,Convenience Store,East,746.88,0,264,197176.32,57,Male,2025-07-14
+1482,Tea,Beverages,BrandE,Bottom,Convenience Store,South,1323.41,20,203,214921.78,57,Female,2025-04-08
+1483,Soft Drink,Beverages,BrandA,Eye Level,Supermarket,South,1288.99,0,54,69605.46,20,Male,2025-09-25
+1484,Curd,Dairy,BrandD,Bottom,Convenience Store,East,399.4,0,297,118621.8,21,Female,2025-11-25
+1485,Popcorn,Snacks,BrandD,Eye Level,Hypermarket,North,1441.33,0,111,159987.63,41,Other,2025-12-02
+1486,Marker,Stationery,BrandC,Eye Level,Convenience Store,North,1647.61,30,34,39213.12,37,Male,2025-11-12
+1487,Popcorn,Snacks,BrandD,Middle,Supermarket,South,212.3,25,123,19584.68,54,Other,2025-09-30
+1488,Popcorn,Snacks,BrandE,Top,Convenience Store,West,1503.4,15,59,75395.51,62,Other,2025-11-23
+1489,Headphones,Electronics,BrandE,Top,Convenience Store,South,350.28,5,286,95171.08,52,Other,2025-07-25
+1490,Keyboard,Electronics,BrandD,Bottom,Convenience Store,East,1806.92,20,171,247186.66,56,Male,2025-07-10
+1491,Perfume,Cosmetics,BrandC,Bottom,Hypermarket,West,443.58,30,286,88804.72,18,Other,2025-05-11
+1492,Butter,Dairy,BrandA,Top,Supermarket,South,1199.61,20,74,71016.91,38,Male,2025-06-04
+1493,Pencil,Stationery,BrandE,Middle,Supermarket,North,1839.84,20,289,425371.01,47,Female,2025-10-20
+1494,Biscuits,Snacks,BrandC,Top,Supermarket,West,544.68,20,132,57518.21,54,Male,2025-04-30
+1495,Notebook,Stationery,BrandD,Eye Level,Convenience Store,East,1452.69,30,252,256254.52,20,Other,2025-03-30
+1496,Cream,Cosmetics,BrandD,Bottom,Supermarket,South,175.39,0,176,30868.64,65,Other,2025-06-28
+1497,Shampoo,Cosmetics,BrandC,Eye Level,Hypermarket,South,1275.1,25,200,191265.0,38,Other,2025-01-28
+1498,Pen,Stationery,BrandE,Eye Level,Supermarket,West,323.33,25,206,49954.49,36,Female,2025-08-17
+1499,Biscuits,Snacks,BrandE,Bottom,Hypermarket,North,685.61,15,297,173082.24,43,Other,2025-01-26
+1500,Mouse,Electronics,BrandD,Bottom,Convenience Store,South,1528.83,15,291,378156.1,53,Other,2025-04-12
+1501,Folder,Stationery,BrandC,Eye Level,Supermarket,West,507.57,0,141,71567.37,45,Female,2025-08-09
+1502,Coffee,Beverages,BrandB,Top,Convenience Store,West,655.06,20,17,8908.82,57,Male,2025-06-06
+1503,Headphones,Electronics,BrandC,Middle,Convenience Store,North,1849.94,5,107,188046.4,25,Other,2025-12-17
+1504,Cheese,Dairy,BrandC,Eye Level,Hypermarket,West,1898.9,5,152,274201.16,48,Male,2025-01-08
+1505,Coffee,Beverages,BrandE,Top,Convenience Store,West,1485.23,5,109,153795.57,57,Other,2025-10-07
+1506,Chips,Snacks,BrandC,Middle,Supermarket,East,765.68,25,274,157347.24,30,Other,2025-01-23
+1507,Face Wash,Cosmetics,BrandD,Top,Convenience Store,East,125.11,25,9,844.49,24,Male,2025-02-04
+1508,Soft Drink,Beverages,BrandA,Top,Hypermarket,North,477.71,15,265,107604.18,29,Male,2025-12-30
+1509,Cream,Cosmetics,BrandB,Top,Hypermarket,West,1130.16,25,16,13561.92,43,Other,2025-01-21
+1510,Chips,Snacks,BrandC,Middle,Convenience Store,East,706.62,10,186,118288.19,21,Other,2025-11-17
+1511,Soft Drink,Beverages,BrandC,Middle,Supermarket,East,1783.0,30,20,24962.0,43,Other,2025-10-12
+1512,Chips,Snacks,BrandB,Middle,Hypermarket,East,1465.18,20,121,141829.42,56,Female,2025-08-02
+1513,Power Bank,Electronics,BrandE,Middle,Supermarket,East,280.91,25,75,15801.19,62,Other,2025-10-25
+1514,Soap,Cosmetics,BrandE,Middle,Hypermarket,North,871.53,30,79,48195.61,53,Other,2025-12-02
+1515,Notebook,Stationery,BrandC,Bottom,Hypermarket,East,384.59,30,79,21267.83,46,Other,2025-01-16
+1516,Pencil,Stationery,BrandB,Eye Level,Convenience Store,East,320.87,5,59,17984.76,56,Other,2025-03-09
+1517,Soap,Cosmetics,BrandA,Bottom,Supermarket,West,1200.79,5,18,20533.51,63,Other,2025-07-03
+1518,Coffee,Beverages,BrandB,Middle,Supermarket,North,1707.22,15,247,358430.84,44,Male,2025-03-12
+1519,Soft Drink,Beverages,BrandA,Middle,Hypermarket,West,460.66,25,108,37313.46,62,Female,2025-04-15
+1520,Mouse,Electronics,BrandD,Top,Hypermarket,North,866.56,30,26,15771.39,51,Male,2025-11-08
+1521,Speaker,Electronics,BrandE,Bottom,Convenience Store,North,1657.48,0,130,215472.4,53,Female,2025-09-23
+1522,Shampoo,Cosmetics,BrandC,Bottom,Supermarket,West,395.9,15,208,69995.12,36,Other,2025-06-05
+1523,Paneer,Dairy,BrandE,Eye Level,Supermarket,South,1809.28,15,236,362941.57,43,Female,2025-02-16
+1524,Soft Drink,Beverages,BrandA,Top,Hypermarket,South,69.33,15,108,6364.49,63,Other,2025-08-21
+1525,Milk,Dairy,BrandE,Bottom,Convenience Store,South,246.05,15,190,39737.07,42,Other,2025-02-13
+1526,Headphones,Electronics,BrandB,Middle,Supermarket,South,1541.16,10,294,407790.94,63,Male,2025-12-04
+1527,Keyboard,Electronics,BrandB,Eye Level,Supermarket,South,632.85,30,233,103217.84,18,Other,2025-05-28
+1528,Tea,Beverages,BrandA,Bottom,Supermarket,South,928.11,30,260,168916.02,55,Other,2025-10-06
+1529,Speaker,Electronics,BrandE,Top,Convenience Store,South,832.1,0,8,6656.8,21,Male,2025-05-06
+1530,Chips,Snacks,BrandE,Top,Hypermarket,North,1313.49,0,79,103765.71,21,Male,2025-01-17
+1531,Mouse,Electronics,BrandB,Bottom,Convenience Store,East,339.44,10,298,91037.81,20,Male,2025-10-15
+1532,Juice,Beverages,BrandE,Eye Level,Hypermarket,West,749.77,15,39,24854.88,26,Male,2025-08-07
+1533,Pencil,Stationery,BrandB,Eye Level,Supermarket,North,671.83,15,273,155898.15,48,Other,2025-04-18
+1534,Folder,Stationery,BrandE,Top,Hypermarket,East,1869.11,25,152,213078.54,26,Other,2025-08-07
+1535,Cream,Cosmetics,BrandB,Middle,Convenience Store,East,1049.02,25,259,203772.14,30,Male,2025-09-10
+1536,Milk,Dairy,BrandE,Bottom,Hypermarket,North,940.47,30,65,42791.39,39,Female,2025-04-17
+1537,Soap,Cosmetics,BrandA,Top,Hypermarket,East,42.37,5,149,5997.47,18,Male,2025-05-11
+1538,Pencil,Stationery,BrandA,Middle,Supermarket,East,695.9,25,296,154489.8,39,Other,2025-11-12
+1539,Speaker,Electronics,BrandB,Bottom,Convenience Store,East,1598.56,25,74,88720.08,47,Female,2025-09-04
+1540,Notebook,Stationery,BrandC,Eye Level,Supermarket,East,1673.51,10,294,442810.75,40,Male,2025-12-14
+1541,Cookies,Snacks,BrandE,Middle,Convenience Store,West,1684.66,10,197,298690.22,29,Other,2025-11-17
+1542,Butter,Dairy,BrandD,Eye Level,Hypermarket,South,1416.43,10,21,26770.53,41,Female,2025-05-20
+1543,Coffee,Beverages,BrandA,Middle,Supermarket,West,1059.7,5,62,62416.33,50,Male,2025-07-11
+1544,Power Bank,Electronics,BrandC,Top,Supermarket,North,325.07,10,252,73725.88,51,Other,2025-09-26
+1545,Biscuits,Snacks,BrandA,Eye Level,Hypermarket,North,1454.65,15,203,250999.86,61,Other,2025-09-25
+1546,Butter,Dairy,BrandC,Eye Level,Convenience Store,East,944.41,0,57,53831.37,58,Male,2025-09-24
+1547,Coffee,Beverages,BrandD,Eye Level,Hypermarket,South,401.24,10,277,100029.13,28,Female,2025-06-13
+1548,Milk,Dairy,BrandB,Top,Convenience Store,East,1917.43,20,268,411096.99,35,Male,2025-02-22
+1549,Pencil,Stationery,BrandE,Top,Convenience Store,West,1156.68,5,41,45052.69,21,Male,2025-06-09
+1550,Curd,Dairy,BrandA,Eye Level,Hypermarket,West,1808.52,0,59,106702.68,29,Other,2025-07-16
+1551,Perfume,Cosmetics,BrandC,Top,Hypermarket,South,1266.35,25,233,221294.66,63,Other,2025-11-12
+1552,Shampoo,Cosmetics,BrandB,Eye Level,Convenience Store,West,1947.89,30,243,331336.09,24,Female,2025-10-18
+1553,Soft Drink,Beverages,BrandC,Top,Hypermarket,South,951.68,5,78,70519.49,62,Other,2025-11-12
+1554,Juice,Beverages,BrandA,Top,Hypermarket,West,917.5,0,38,34865.0,28,Female,2025-09-01
+1555,Water,Beverages,BrandA,Top,Convenience Store,North,1157.86,20,57,52798.42,37,Other,2025-07-27
+1556,Speaker,Electronics,BrandB,Bottom,Hypermarket,North,1189.26,5,129,145743.81,39,Male,2025-10-08
+1557,Folder,Stationery,BrandE,Middle,Supermarket,North,873.67,15,295,219072.75,65,Other,2025-06-25
+1558,Cream,Cosmetics,BrandE,Eye Level,Hypermarket,South,246.36,20,242,47695.3,37,Female,2025-06-16
+1559,Paneer,Dairy,BrandD,Eye Level,Supermarket,South,235.31,30,199,32778.68,26,Other,2025-06-17
+1560,Notebook,Stationery,BrandE,Top,Hypermarket,West,1519.01,25,81,92279.86,30,Male,2025-08-20
+1561,Pencil,Stationery,BrandC,Eye Level,Convenience Store,North,613.48,30,160,68709.76,57,Other,2025-08-11
+1562,Mouse,Electronics,BrandA,Eye Level,Convenience Store,East,1707.96,0,194,331344.24,25,Female,2025-10-09
+1563,Cheese,Dairy,BrandC,Bottom,Hypermarket,West,874.8,20,206,144167.04,45,Other,2025-11-17
+1564,Biscuits,Snacks,BrandC,Bottom,Supermarket,East,960.25,5,289,263636.64,60,Male,2025-07-16
+1565,Chips,Snacks,BrandD,Middle,Supermarket,South,162.06,0,78,12640.68,59,Female,2025-09-07
+1566,Power Bank,Electronics,BrandE,Bottom,Convenience Store,West,1862.02,20,97,144492.75,42,Female,2025-08-21
+1567,Biscuits,Snacks,BrandB,Top,Hypermarket,East,861.05,0,300,258315.0,20,Male,2025-09-13
+1568,Cream,Cosmetics,BrandA,Middle,Convenience Store,East,1415.67,0,251,355333.17,47,Other,2025-12-20
+1569,Paneer,Dairy,BrandA,Top,Convenience Store,North,1782.03,0,130,231663.9,39,Other,2025-08-30
+1570,Curd,Dairy,BrandD,Top,Hypermarket,East,918.99,15,298,232780.17,28,Male,2025-06-19
+1571,Folder,Stationery,BrandA,Bottom,Convenience Store,South,1503.86,25,293,330473.23,54,Male,2025-05-14
+1572,Pencil,Stationery,BrandD,Eye Level,Supermarket,North,1621.61,20,18,23351.18,35,Female,2025-05-27
+1573,Popcorn,Snacks,BrandA,Middle,Convenience Store,South,576.32,30,136,54865.66,60,Female,2025-01-08
+1574,Coffee,Beverages,BrandB,Eye Level,Hypermarket,North,537.28,25,125,50370.0,27,Other,2025-09-06
+1575,Namkeen,Snacks,BrandD,Middle,Supermarket,East,1510.47,15,201,258063.8,21,Other,2025-05-02
+1576,Tea,Beverages,BrandC,Bottom,Convenience Store,South,124.0,15,209,22028.6,42,Other,2025-09-01
+1577,Marker,Stationery,BrandA,Top,Hypermarket,West,959.69,5,276,251630.72,61,Female,2025-08-11
+1578,Shampoo,Cosmetics,BrandE,Top,Hypermarket,East,212.78,20,186,31661.66,35,Male,2025-08-10
+1579,Water,Beverages,BrandE,Middle,Convenience Store,East,794.48,30,128,71185.41,61,Other,2025-12-11
+1580,Cookies,Snacks,BrandA,Bottom,Supermarket,North,1104.27,25,9,7453.82,61,Female,2025-02-04
+1581,Coffee,Beverages,BrandA,Eye Level,Supermarket,South,1456.0,10,103,134971.2,56,Other,2025-01-18
+1582,Milk,Dairy,BrandE,Middle,Supermarket,South,191.05,20,71,10851.64,34,Female,2025-07-12
+1583,Headphones,Electronics,BrandC,Top,Supermarket,North,1284.79,10,223,257857.35,35,Male,2025-12-21
+1584,Speaker,Electronics,BrandB,Bottom,Supermarket,West,678.66,0,137,92976.42,30,Other,2025-05-16
+1585,Mouse,Electronics,BrandD,Middle,Convenience Store,North,1298.06,0,78,101248.68,46,Other,2025-10-04
+1586,Tea,Beverages,BrandD,Eye Level,Hypermarket,South,89.02,0,297,26438.94,59,Other,2025-05-09
+1587,Milk,Dairy,BrandC,Bottom,Convenience Store,North,1335.92,10,82,98590.9,50,Other,2025-12-25
+1588,Speaker,Electronics,BrandB,Eye Level,Hypermarket,West,883.39,30,40,24734.92,25,Other,2025-10-04
+1589,Face Wash,Cosmetics,BrandA,Top,Convenience Store,East,680.21,10,210,128559.69,23,Female,2025-01-29
+1590,Coffee,Beverages,BrandB,Top,Convenience Store,West,369.7,0,201,74309.7,24,Other,2025-12-05
+1591,Pencil,Stationery,BrandB,Eye Level,Supermarket,North,983.28,25,229,168878.34,64,Other,2025-04-08
+1592,Namkeen,Snacks,BrandC,Bottom,Convenience Store,West,789.76,30,281,155345.79,19,Male,2025-11-26
+1593,Tea,Beverages,BrandA,Middle,Convenience Store,West,688.68,25,26,13429.26,61,Other,2025-07-27
+1594,Popcorn,Snacks,BrandD,Eye Level,Hypermarket,North,481.31,0,23,11070.13,33,Other,2025-03-14
+1595,Pen,Stationery,BrandA,Bottom,Convenience Store,South,48.44,25,30,1089.9,55,Male,2025-06-07
+1596,Milk,Dairy,BrandB,Bottom,Hypermarket,West,1004.34,30,117,82255.45,38,Male,2025-02-02
+1597,Folder,Stationery,BrandE,Middle,Hypermarket,North,1100.85,10,114,112947.21,25,Female,2025-01-24
+1598,Namkeen,Snacks,BrandD,Middle,Convenience Store,North,352.74,10,288,91430.21,26,Male,2025-03-26
+1599,Folder,Stationery,BrandA,Eye Level,Supermarket,South,764.74,5,13,9444.54,23,Other,2025-09-07
+1600,Folder,Stationery,BrandB,Middle,Supermarket,East,1776.09,15,248,374399.77,51,Female,2025-12-21
+1601,Mouse,Electronics,BrandB,Bottom,Convenience Store,North,1877.42,20,24,36046.46,58,Female,2025-11-02
+1602,Soft Drink,Beverages,BrandE,Eye Level,Convenience Store,East,29.05,5,103,2842.54,52,Other,2025-03-02
+1603,Namkeen,Snacks,BrandA,Middle,Supermarket,South,1545.26,25,111,128642.89,61,Female,2025-05-22
+1604,Mouse,Electronics,BrandC,Top,Supermarket,West,336.32,0,32,10762.24,34,Female,2025-11-27
+1605,Cream,Cosmetics,BrandB,Middle,Supermarket,West,105.77,25,31,2459.15,50,Male,2025-10-03
+1606,Cheese,Dairy,BrandB,Top,Supermarket,North,1448.38,20,171,198138.38,38,Male,2025-08-03
+1607,Cheese,Dairy,BrandB,Eye Level,Hypermarket,West,1480.74,30,107,110907.43,21,Female,2025-07-12
+1608,Biscuits,Snacks,BrandC,Middle,Hypermarket,South,1857.22,15,96,151549.15,58,Female,2025-07-18
+1609,Coffee,Beverages,BrandC,Middle,Supermarket,West,685.06,0,296,202777.76,47,Female,2025-01-31
+1610,Cookies,Snacks,BrandE,Middle,Convenience Store,South,455.31,10,85,34831.21,23,Female,2025-11-23
+1611,Cream,Cosmetics,BrandC,Eye Level,Convenience Store,West,1727.15,5,247,405275.75,65,Male,2025-08-25
+1612,Cookies,Snacks,BrandA,Bottom,Supermarket,North,879.81,5,81,67701.38,48,Other,2025-10-21
+1613,Shampoo,Cosmetics,BrandA,Bottom,Hypermarket,South,862.88,15,250,183362.0,23,Other,2025-12-23
+1614,Curd,Dairy,BrandB,Eye Level,Supermarket,West,1900.87,5,188,339495.38,60,Female,2025-06-01
+1615,Namkeen,Snacks,BrandD,Middle,Convenience Store,West,1718.69,25,17,21913.3,29,Female,2025-08-21
+1616,Marker,Stationery,BrandC,Eye Level,Hypermarket,West,1413.73,0,41,57962.93,35,Other,2025-07-17
+1617,Perfume,Cosmetics,BrandC,Eye Level,Convenience Store,East,1158.95,5,46,50646.12,21,Male,2025-11-14
+1618,Keyboard,Electronics,BrandB,Eye Level,Convenience Store,South,941.4,0,192,180748.8,26,Female,2025-07-07
+1619,Popcorn,Snacks,BrandC,Top,Hypermarket,West,244.84,15,112,23308.77,35,Male,2025-04-26
+1620,Butter,Dairy,BrandA,Bottom,Convenience Store,East,703.55,15,261,156082.57,46,Other,2025-09-27
+1621,Tea,Beverages,BrandD,Middle,Hypermarket,North,392.94,15,49,16365.95,24,Male,2025-02-11
+1622,Tea,Beverages,BrandE,Eye Level,Hypermarket,West,1400.22,15,82,97595.33,61,Other,2025-04-15
+1623,Namkeen,Snacks,BrandB,Eye Level,Supermarket,South,706.47,15,15,9007.49,51,Other,2025-05-30
+1624,Soft Drink,Beverages,BrandE,Bottom,Hypermarket,East,1165.84,25,172,150393.36,54,Male,2025-09-06
+1625,Coffee,Beverages,BrandC,Eye Level,Supermarket,East,1582.75,5,252,378910.35,36,Female,2025-07-10
+1626,Popcorn,Snacks,BrandB,Middle,Convenience Store,South,1849.78,25,279,387066.46,28,Male,2025-05-27
+1627,Milk,Dairy,BrandC,Top,Supermarket,South,1987.67,20,69,109719.38,53,Other,2025-08-14
+1628,Butter,Dairy,BrandE,Middle,Convenience Store,East,1956.48,5,195,362437.92,25,Male,2025-08-18
+1629,Speaker,Electronics,BrandA,Top,Convenience Store,East,1541.67,15,168,220150.48,48,Female,2025-03-21
+1630,Soap,Cosmetics,BrandA,Bottom,Supermarket,South,1603.16,25,231,277747.47,61,Other,2025-06-23
+1631,Butter,Dairy,BrandC,Eye Level,Hypermarket,North,69.1,20,117,6467.76,56,Other,2025-08-17
+1632,Popcorn,Snacks,BrandA,Eye Level,Convenience Store,West,1062.34,30,147,109314.79,61,Other,2025-04-11
+1633,Paneer,Dairy,BrandE,Eye Level,Convenience Store,East,800.96,15,167,113696.27,43,Male,2025-11-05
+1634,Marker,Stationery,BrandC,Top,Hypermarket,West,751.87,10,11,7443.51,53,Male,2025-05-26
+1635,Namkeen,Snacks,BrandB,Bottom,Convenience Store,West,1488.22,15,231,292212.0,26,Other,2025-05-28
+1636,Shampoo,Cosmetics,BrandC,Eye Level,Convenience Store,West,304.41,10,248,67944.31,23,Male,2025-09-26
+1637,Keyboard,Electronics,BrandE,Middle,Supermarket,South,840.74,20,241,162094.67,42,Female,2025-12-30
+1638,Cream,Cosmetics,BrandC,Bottom,Convenience Store,West,103.62,30,159,11532.91,32,Male,2025-10-27
+1639,Cheese,Dairy,BrandC,Bottom,Supermarket,West,540.1,25,246,99648.45,62,Other,2025-03-05
+1640,Chips,Snacks,BrandE,Top,Convenience Store,West,256.32,10,257,59286.82,54,Female,2025-02-04
+1641,Soft Drink,Beverages,BrandE,Eye Level,Hypermarket,South,1949.03,30,66,90045.19,55,Male,2025-07-11
+1642,Cookies,Snacks,BrandB,Eye Level,Hypermarket,East,932.87,25,74,51774.29,44,Other,2025-07-02
+1643,Tea,Beverages,BrandB,Middle,Supermarket,South,593.92,20,44,20905.98,52,Female,2025-09-21
+1644,Juice,Beverages,BrandE,Top,Supermarket,North,557.49,25,190,79442.33,26,Other,2025-02-19
+1645,Juice,Beverages,BrandA,Middle,Supermarket,South,1562.04,15,179,237664.39,30,Other,2025-03-25
+1646,Perfume,Cosmetics,BrandA,Bottom,Hypermarket,North,1695.22,25,287,364896.1,25,Male,2025-12-26
+1647,Curd,Dairy,BrandD,Top,Supermarket,East,709.46,25,190,101098.05,19,Other,2025-03-13
+1648,Cheese,Dairy,BrandB,Top,Supermarket,South,274.85,25,77,15872.59,26,Male,2025-12-19
+1649,Headphones,Electronics,BrandA,Middle,Supermarket,North,173.92,30,252,30679.49,60,Other,2025-08-09
+1650,Shampoo,Cosmetics,BrandC,Eye Level,Supermarket,North,948.78,10,27,23055.35,56,Male,2025-02-03
+1651,Soap,Cosmetics,BrandB,Top,Convenience Store,East,385.87,10,19,6598.38,40,Male,2025-02-16
+1652,Perfume,Cosmetics,BrandE,Eye Level,Convenience Store,South,498.81,20,39,15562.87,63,Male,2025-02-20
+1653,Coffee,Beverages,BrandB,Bottom,Hypermarket,South,1805.29,20,7,10109.62,46,Other,2025-02-20
+1654,Cheese,Dairy,BrandE,Middle,Hypermarket,North,1672.79,15,222,315655.47,38,Male,2025-04-20
+1655,Headphones,Electronics,BrandC,Eye Level,Supermarket,East,1049.06,15,189,168531.49,49,Male,2025-12-27
+1656,Keyboard,Electronics,BrandD,Middle,Convenience Store,West,924.75,25,164,113744.25,36,Female,2025-12-18
+1657,Chips,Snacks,BrandC,Middle,Supermarket,West,1791.61,30,248,311023.5,61,Male,2025-12-14
+1658,Speaker,Electronics,BrandB,Bottom,Hypermarket,North,1054.87,25,48,37975.32,65,Male,2025-03-03
+1659,Butter,Dairy,BrandD,Eye Level,Supermarket,West,1950.91,10,107,187872.63,64,Female,2025-11-01
+1660,Water,Beverages,BrandD,Bottom,Hypermarket,East,1195.43,30,209,174891.41,27,Female,2025-07-02
+1661,Milk,Dairy,BrandB,Eye Level,Supermarket,North,516.37,15,123,53986.48,22,Female,2025-11-18
+1662,Notebook,Stationery,BrandC,Eye Level,Supermarket,West,1944.7,15,172,284315.14,47,Male,2025-03-20
+1663,Soft Drink,Beverages,BrandE,Eye Level,Supermarket,West,990.7,10,282,251439.66,25,Female,2025-06-25
+1664,Keyboard,Electronics,BrandA,Middle,Convenience Store,East,1708.69,15,240,348572.76,63,Male,2025-01-19
+1665,Speaker,Electronics,BrandA,Bottom,Convenience Store,West,286.29,25,204,43802.37,48,Other,2025-09-07
+1666,Popcorn,Snacks,BrandD,Top,Hypermarket,East,130.36,10,258,30269.59,21,Male,2025-10-30
+1667,Shampoo,Cosmetics,BrandA,Top,Hypermarket,North,273.83,10,183,45099.8,45,Female,2025-10-26
+1668,Soft Drink,Beverages,BrandB,Top,Convenience Store,North,715.51,25,130,69762.23,62,Male,2025-05-07
+1669,Tea,Beverages,BrandA,Bottom,Convenience Store,West,688.44,0,280,192763.2,54,Other,2025-06-16
+1670,Keyboard,Electronics,BrandD,Bottom,Hypermarket,North,60.4,15,16,821.44,49,Male,2025-06-12
+1671,Pen,Stationery,BrandE,Top,Hypermarket,West,685.22,20,178,97575.33,30,Female,2025-03-27
+1672,Notebook,Stationery,BrandC,Eye Level,Hypermarket,West,1683.95,20,114,153576.24,32,Other,2025-05-28
+1673,Notebook,Stationery,BrandC,Top,Supermarket,West,1441.06,20,53,61100.94,45,Male,2025-10-31
+1674,Tea,Beverages,BrandD,Top,Supermarket,West,1310.04,10,263,310086.47,43,Female,2025-06-03
+1675,Perfume,Cosmetics,BrandA,Middle,Convenience Store,West,917.39,30,285,183019.3,31,Other,2025-04-03
+1676,Marker,Stationery,BrandD,Eye Level,Convenience Store,South,550.51,25,277,114368.45,41,Female,2025-11-11
+1677,Biscuits,Snacks,BrandD,Top,Supermarket,South,317.94,25,158,37675.89,44,Female,2025-08-11
+1678,Coffee,Beverages,BrandB,Eye Level,Supermarket,South,527.76,20,125,52776.0,19,Male,2025-07-27
+1679,Soft Drink,Beverages,BrandA,Middle,Supermarket,East,981.06,15,221,184292.12,26,Male,2025-11-28
+1680,Juice,Beverages,BrandA,Eye Level,Supermarket,East,1324.17,5,26,32707.0,56,Female,2025-09-06
+1681,Curd,Dairy,BrandB,Middle,Supermarket,North,1795.61,25,51,68682.08,51,Other,2025-07-23
+1682,Perfume,Cosmetics,BrandA,Top,Hypermarket,West,518.58,0,126,65341.08,65,Other,2025-11-04
+1683,Namkeen,Snacks,BrandC,Bottom,Hypermarket,East,451.66,0,94,42456.04,55,Male,2025-04-20
+1684,Power Bank,Electronics,BrandD,Bottom,Convenience Store,South,761.92,0,167,127240.64,35,Male,2025-10-07
+1685,Soft Drink,Beverages,BrandE,Eye Level,Convenience Store,North,1437.03,30,162,162959.2,62,Other,2025-01-11
+1686,Cookies,Snacks,BrandA,Middle,Hypermarket,West,1114.4,10,190,190562.4,18,Female,2025-12-17
+1687,Juice,Beverages,BrandB,Middle,Hypermarket,East,198.7,30,125,17386.25,59,Female,2025-06-02
+1688,Butter,Dairy,BrandD,Top,Convenience Store,West,1735.56,30,256,311012.35,24,Male,2025-08-30
+1689,Pencil,Stationery,BrandE,Top,Hypermarket,North,1022.54,10,220,202462.92,21,Other,2025-11-05
+1690,Pen,Stationery,BrandD,Middle,Convenience Store,East,1267.71,30,74,65667.38,38,Other,2025-01-02
+1691,Milk,Dairy,BrandD,Top,Hypermarket,West,332.49,20,71,18885.43,65,Male,2025-11-01
+1692,Coffee,Beverages,BrandB,Eye Level,Hypermarket,East,1381.18,30,172,166294.07,29,Female,2025-05-25
+1693,Power Bank,Electronics,BrandE,Middle,Supermarket,West,464.48,0,290,134699.2,30,Female,2025-11-28
+1694,Pen,Stationery,BrandC,Middle,Supermarket,East,118.57,20,224,21247.74,28,Other,2025-11-04
+1695,Milk,Dairy,BrandD,Eye Level,Supermarket,South,1442.8,15,237,290652.06,30,Female,2025-12-11
+1696,Soft Drink,Beverages,BrandB,Top,Convenience Store,South,776.51,15,110,72603.68,44,Male,2025-11-04
+1697,Mouse,Electronics,BrandD,Middle,Hypermarket,West,76.97,10,125,8659.12,23,Male,2025-11-13
+1698,Mouse,Electronics,BrandB,Bottom,Convenience Store,West,1745.46,25,208,272291.76,65,Other,2025-12-18
+1699,Tea,Beverages,BrandB,Bottom,Hypermarket,North,208.65,0,31,6468.15,18,Female,2025-06-20
+1700,Perfume,Cosmetics,BrandE,Eye Level,Convenience Store,South,774.26,15,194,127675.47,34,Male,2025-03-09
+1701,Cream,Cosmetics,BrandC,Bottom,Supermarket,East,1862.05,15,72,113957.46,25,Female,2025-02-15
+1702,Cheese,Dairy,BrandD,Top,Hypermarket,East,1008.44,30,148,104474.38,51,Female,2025-07-04
+1703,Mouse,Electronics,BrandD,Eye Level,Supermarket,South,644.77,15,82,44940.47,21,Male,2025-10-12
+1704,Chips,Snacks,BrandA,Bottom,Supermarket,West,951.09,5,244,220462.66,40,Other,2025-08-12
+1705,Cream,Cosmetics,BrandC,Eye Level,Supermarket,East,926.36,0,80,74108.8,29,Male,2025-03-05
+1706,Folder,Stationery,BrandA,Middle,Hypermarket,North,1648.69,20,113,149041.58,33,Female,2025-10-26
+1707,Notebook,Stationery,BrandA,Bottom,Hypermarket,North,1776.99,0,150,266548.5,38,Male,2025-12-15
+1708,Milk,Dairy,BrandC,Eye Level,Hypermarket,North,931.26,25,250,174611.25,59,Other,2025-08-21
+1709,Keyboard,Electronics,BrandB,Eye Level,Convenience Store,East,1895.89,25,296,420887.58,38,Male,2025-03-08
+1710,Notebook,Stationery,BrandD,Top,Supermarket,South,1103.37,20,200,176539.2,43,Male,2025-02-17
+1711,Cheese,Dairy,BrandB,Eye Level,Hypermarket,West,342.62,30,211,50604.97,45,Other,2025-05-26
+1712,Water,Beverages,BrandE,Middle,Hypermarket,West,279.95,25,54,11337.97,42,Female,2025-07-08
+1713,Water,Beverages,BrandE,Middle,Hypermarket,West,1208.67,0,221,267116.07,23,Male,2025-07-08
+1714,Face Wash,Cosmetics,BrandB,Bottom,Convenience Store,North,1947.08,25,119,173776.89,36,Female,2025-11-28
+1715,Headphones,Electronics,BrandB,Top,Supermarket,West,1816.27,15,158,243925.06,36,Other,2025-03-18
+1716,Paneer,Dairy,BrandE,Bottom,Hypermarket,North,171.53,0,267,45798.51,47,Other,2025-02-25
+1717,Folder,Stationery,BrandA,Eye Level,Supermarket,West,1629.39,10,135,197970.89,29,Male,2025-10-27
+1718,Headphones,Electronics,BrandE,Bottom,Convenience Store,West,184.92,25,157,21774.33,57,Female,2025-06-10
+1719,Coffee,Beverages,BrandA,Bottom,Convenience Store,North,437.92,0,137,59995.04,18,Female,2025-12-11
+1720,Milk,Dairy,BrandD,Bottom,Hypermarket,East,360.04,15,240,73448.16,62,Other,2025-12-21
+1721,Marker,Stationery,BrandA,Middle,Supermarket,North,1613.19,0,69,111310.11,62,Male,2025-03-11
+1722,Cheese,Dairy,BrandE,Middle,Supermarket,East,972.61,5,128,118269.38,47,Male,2025-08-12
+1723,Speaker,Electronics,BrandD,Bottom,Hypermarket,North,63.2,5,83,4983.32,46,Other,2025-12-26
+1724,Biscuits,Snacks,BrandC,Eye Level,Supermarket,West,603.77,30,205,86640.99,44,Female,2025-01-27
+1725,Folder,Stationery,BrandD,Bottom,Hypermarket,West,1199.76,20,153,146850.62,32,Other,2025-01-19
+1726,Paneer,Dairy,BrandA,Top,Convenience Store,West,57.66,20,166,7657.25,48,Male,2025-10-11
+1727,Power Bank,Electronics,BrandD,Eye Level,Supermarket,East,1879.15,10,234,395748.99,64,Male,2025-12-24
+1728,Keyboard,Electronics,BrandC,Bottom,Supermarket,East,887.46,20,117,83066.26,64,Other,2025-10-28
+1729,Speaker,Electronics,BrandB,Middle,Hypermarket,North,1669.5,25,189,236651.62,60,Female,2025-08-30
+1730,Biscuits,Snacks,BrandD,Bottom,Hypermarket,South,414.98,20,256,84987.9,31,Other,2025-02-21
+1731,Milk,Dairy,BrandB,Middle,Convenience Store,North,730.4,10,187,122926.32,22,Female,2025-12-13
+1732,Headphones,Electronics,BrandD,Top,Hypermarket,East,1242.77,0,292,362888.84,20,Other,2025-04-25
+1733,Coffee,Beverages,BrandA,Eye Level,Hypermarket,West,1709.75,30,268,320749.1,25,Male,2025-11-06
+1734,Perfume,Cosmetics,BrandE,Eye Level,Supermarket,North,1568.67,0,292,458051.64,31,Female,2025-01-22
+1735,Cookies,Snacks,BrandA,Middle,Convenience Store,East,1422.16,30,264,262815.17,39,Male,2025-09-13
+1736,Cheese,Dairy,BrandD,Top,Hypermarket,South,889.43,15,8,6048.12,23,Female,2025-05-06
+1737,Soft Drink,Beverages,BrandE,Bottom,Supermarket,South,734.07,25,130,71571.83,45,Female,2025-03-19
+1738,Speaker,Electronics,BrandD,Middle,Supermarket,North,1904.64,20,190,289505.28,23,Female,2025-01-16
+1739,Soft Drink,Beverages,BrandD,Eye Level,Convenience Store,South,1964.25,5,227,423590.51,54,Male,2025-02-01
+1740,Folder,Stationery,BrandE,Top,Convenience Store,East,1945.87,15,210,347337.79,40,Male,2025-12-15
+1741,Water,Beverages,BrandB,Bottom,Convenience Store,East,1228.59,5,211,246270.87,59,Female,2025-08-17
+1742,Cookies,Snacks,BrandB,Top,Supermarket,North,186.88,20,176,26312.7,50,Other,2025-07-19
+1743,Water,Beverages,BrandA,Top,Supermarket,East,694.6,25,86,44801.7,64,Female,2025-01-12
+1744,Shampoo,Cosmetics,BrandE,Top,Supermarket,North,1469.33,30,195,200563.54,59,Male,2025-05-13
+1745,Keyboard,Electronics,BrandB,Middle,Hypermarket,East,1153.42,0,237,273360.54,36,Other,2025-06-23
+1746,Folder,Stationery,BrandB,Eye Level,Hypermarket,South,1351.42,25,198,200685.87,41,Female,2025-09-24
+1747,Cheese,Dairy,BrandA,Eye Level,Hypermarket,South,1429.05,30,215,215072.02,48,Male,2025-02-11
+1748,Headphones,Electronics,BrandE,Bottom,Hypermarket,West,751.2,20,211,126802.56,58,Female,2025-10-29
+1749,Speaker,Electronics,BrandE,Middle,Hypermarket,West,1468.8,15,88,109866.24,26,Other,2025-03-15
+1750,Perfume,Cosmetics,BrandA,Middle,Convenience Store,East,253.76,5,238,57375.14,25,Other,2025-08-31
+1751,Headphones,Electronics,BrandE,Middle,Supermarket,East,259.32,20,153,31740.77,37,Female,2025-01-21
+1752,Juice,Beverages,BrandE,Bottom,Supermarket,East,982.13,30,78,53624.3,36,Male,2025-03-14
+1753,Namkeen,Snacks,BrandA,Bottom,Hypermarket,East,24.13,20,183,3532.63,54,Female,2025-02-04
+1754,Soft Drink,Beverages,BrandE,Bottom,Hypermarket,West,960.95,25,72,51891.3,27,Other,2025-03-12
+1755,Tea,Beverages,BrandB,Bottom,Hypermarket,North,1603.63,25,214,257382.61,60,Female,2025-07-18
+1756,Pencil,Stationery,BrandA,Top,Convenience Store,North,1298.91,30,89,80922.09,59,Other,2025-12-29
+1757,Cheese,Dairy,BrandE,Middle,Hypermarket,North,1911.23,20,300,458695.2,25,Other,2025-01-28
+1758,Soap,Cosmetics,BrandE,Bottom,Supermarket,East,1925.51,10,110,190625.49,43,Other,2025-05-06
+1759,Curd,Dairy,BrandB,Bottom,Supermarket,East,1726.71,0,179,309081.09,42,Female,2025-08-12
+1760,Milk,Dairy,BrandB,Middle,Hypermarket,North,1959.98,20,91,142686.54,27,Female,2025-05-27
+1761,Mouse,Electronics,BrandA,Top,Hypermarket,North,136.65,10,97,11929.55,38,Male,2025-01-14
+1762,Keyboard,Electronics,BrandB,Middle,Convenience Store,South,530.71,30,66,24518.8,49,Other,2025-01-27
+1763,Cream,Cosmetics,BrandD,Bottom,Supermarket,West,1899.73,10,36,61551.25,19,Female,2025-06-12
+1764,Pen,Stationery,BrandE,Eye Level,Supermarket,South,1829.2,0,142,259746.4,37,Other,2025-10-11
+1765,Speaker,Electronics,BrandB,Top,Convenience Store,South,186.14,25,261,36436.9,33,Other,2025-04-15
+1766,Power Bank,Electronics,BrandC,Middle,Supermarket,North,914.45,0,242,221296.9,48,Female,2025-11-14
+1767,Face Wash,Cosmetics,BrandB,Top,Supermarket,South,1682.19,15,184,263094.52,65,Other,2025-11-20
+1768,Shampoo,Cosmetics,BrandE,Top,Hypermarket,South,615.26,15,67,35039.06,57,Other,2025-03-13
+1769,Juice,Beverages,BrandB,Top,Hypermarket,South,1277.64,30,236,211066.13,47,Other,2025-05-20
+1770,Tea,Beverages,BrandD,Eye Level,Supermarket,South,1829.76,5,6,10429.63,44,Other,2025-11-08
+1771,Marker,Stationery,BrandA,Eye Level,Convenience Store,West,1529.68,20,46,56292.22,61,Male,2025-11-29
+1772,Soft Drink,Beverages,BrandA,Eye Level,Hypermarket,East,1658.38,10,203,302986.03,30,Female,2025-04-01
+1773,Cheese,Dairy,BrandC,Middle,Supermarket,East,1491.43,30,148,154512.15,63,Male,2025-12-15
+1774,Namkeen,Snacks,BrandE,Middle,Supermarket,South,1935.25,0,148,286417.0,58,Female,2025-09-10
+1775,Butter,Dairy,BrandB,Middle,Supermarket,South,1146.82,15,92,89681.32,65,Male,2025-10-10
+1776,Cookies,Snacks,BrandC,Middle,Convenience Store,North,1868.46,30,121,158258.56,62,Other,2025-09-25
+1777,Perfume,Cosmetics,BrandD,Eye Level,Hypermarket,West,520.78,20,237,98739.89,44,Female,2025-01-02
+1778,Paneer,Dairy,BrandB,Eye Level,Hypermarket,West,943.84,10,269,228503.66,52,Female,2025-01-23
+1779,Tea,Beverages,BrandA,Middle,Convenience Store,West,795.88,10,46,32949.43,22,Male,2025-10-20
+1780,Biscuits,Snacks,BrandD,Bottom,Supermarket,East,671.86,0,54,36280.44,34,Male,2025-01-15
+1781,Curd,Dairy,BrandE,Middle,Supermarket,West,491.95,10,32,14168.16,24,Other,2025-06-20
+1782,Power Bank,Electronics,BrandC,Eye Level,Supermarket,North,267.16,0,22,5877.52,46,Male,2025-07-13
+1783,Water,Beverages,BrandA,Eye Level,Hypermarket,West,1259.85,0,57,71811.45,43,Male,2025-12-13
+1784,Cream,Cosmetics,BrandD,Bottom,Hypermarket,North,481.56,20,10,3852.48,39,Other,2025-08-21
+1785,Notebook,Stationery,BrandA,Eye Level,Convenience Store,North,919.07,10,103,85197.79,55,Male,2025-02-25
+1786,Soap,Cosmetics,BrandD,Bottom,Supermarket,South,1281.98,10,186,214603.45,26,Male,2025-08-04
+1787,Cheese,Dairy,BrandC,Top,Convenience Store,South,637.1,15,267,144589.85,27,Female,2025-11-30
+1788,Water,Beverages,BrandE,Middle,Supermarket,South,698.94,10,9,5661.41,50,Other,2025-09-23
+1789,Curd,Dairy,BrandC,Middle,Convenience Store,West,700.76,5,108,71897.98,62,Other,2025-02-05
+1790,Power Bank,Electronics,BrandE,Top,Hypermarket,East,1390.98,30,294,286263.68,28,Male,2025-06-21
+1791,Headphones,Electronics,BrandB,Bottom,Convenience Store,South,1001.94,0,119,119230.86,33,Female,2025-12-21
+1792,Pencil,Stationery,BrandB,Eye Level,Hypermarket,North,1618.4,15,110,151320.4,22,Female,2025-07-24
+1793,Paneer,Dairy,BrandE,Top,Supermarket,North,248.07,10,230,51350.49,30,Male,2025-04-10
+1794,Coffee,Beverages,BrandE,Middle,Supermarket,South,453.51,10,94,38366.95,19,Male,2025-06-23
+1795,Tea,Beverages,BrandA,Top,Supermarket,East,61.57,25,75,3463.31,47,Male,2025-07-14
+1796,Juice,Beverages,BrandA,Eye Level,Supermarket,South,1328.6,20,227,241273.76,30,Male,2025-12-31
+1797,Cream,Cosmetics,BrandB,Eye Level,Convenience Store,South,1394.82,10,224,281195.71,52,Female,2025-11-22
+1798,Cookies,Snacks,BrandE,Bottom,Supermarket,North,509.4,25,148,56543.4,48,Other,2025-03-06
+1799,Shampoo,Cosmetics,BrandD,Bottom,Supermarket,East,351.52,15,265,79179.88,63,Female,2025-07-11
+1800,Cream,Cosmetics,BrandE,Bottom,Convenience Store,North,1436.99,15,247,301696.05,31,Male,2025-05-18
+1801,Namkeen,Snacks,BrandD,Bottom,Convenience Store,South,1729.07,15,116,170486.3,41,Female,2025-06-06
+1802,Shampoo,Cosmetics,BrandE,Top,Supermarket,North,285.97,0,156,44611.32,47,Other,2025-08-16
+1803,Face Wash,Cosmetics,BrandC,Bottom,Hypermarket,East,863.68,15,226,165912.93,42,Male,2025-07-29
+1804,Namkeen,Snacks,BrandA,Top,Convenience Store,North,482.9,25,43,15573.53,35,Male,2025-07-03
+1805,Milk,Dairy,BrandC,Middle,Convenience Store,East,161.27,0,284,45800.68,34,Female,2025-04-13
+1806,Pencil,Stationery,BrandC,Eye Level,Hypermarket,East,397.47,20,75,23848.2,40,Female,2025-10-06
+1807,Power Bank,Electronics,BrandE,Middle,Hypermarket,South,1520.46,0,246,374033.16,32,Other,2025-12-01
+1808,Pen,Stationery,BrandD,Top,Supermarket,East,959.39,20,287,220275.94,30,Female,2025-08-28
+1809,Marker,Stationery,BrandC,Middle,Convenience Store,South,434.98,15,290,107222.57,37,Other,2025-01-16
+1810,Curd,Dairy,BrandB,Bottom,Hypermarket,West,1624.59,30,186,211521.62,62,Other,2025-06-23
+1811,Juice,Beverages,BrandB,Top,Convenience Store,West,1182.17,20,21,19860.46,42,Male,2025-03-13
+1812,Headphones,Electronics,BrandC,Bottom,Convenience Store,East,1078.29,5,248,254045.12,23,Male,2025-02-25
+1813,Paneer,Dairy,BrandB,Middle,Supermarket,West,371.72,30,255,66352.02,36,Male,2025-01-14
+1814,Cookies,Snacks,BrandC,Eye Level,Supermarket,East,1325.95,0,237,314250.15,44,Female,2025-01-30
+1815,Chips,Snacks,BrandD,Middle,Supermarket,South,275.69,15,249,58349.79,37,Female,2025-02-05
+1816,Marker,Stationery,BrandB,Bottom,Hypermarket,South,334.39,20,163,43604.46,18,Male,2025-10-28
+1817,Headphones,Electronics,BrandC,Bottom,Hypermarket,West,1652.67,20,131,173199.82,54,Male,2025-09-27
+1818,Notebook,Stationery,BrandC,Bottom,Convenience Store,South,590.07,15,182,91283.83,44,Male,2025-12-25
+1819,Popcorn,Snacks,BrandB,Eye Level,Hypermarket,North,1471.82,15,201,251460.45,33,Male,2025-12-04
+1820,Water,Beverages,BrandD,Eye Level,Hypermarket,North,597.94,0,116,69361.04,24,Other,2025-09-10
+1821,Soft Drink,Beverages,BrandA,Bottom,Supermarket,North,912.85,10,111,91193.72,58,Other,2025-09-17
+1822,Marker,Stationery,BrandD,Eye Level,Supermarket,East,774.69,25,209,121432.66,25,Other,2025-04-10
+1823,Cookies,Snacks,BrandA,Eye Level,Convenience Store,South,1347.19,15,253,289713.21,63,Female,2025-08-25
+1824,Namkeen,Snacks,BrandA,Eye Level,Supermarket,East,1644.44,30,87,100146.4,25,Other,2025-03-29
+1825,Marker,Stationery,BrandC,Middle,Hypermarket,East,353.54,25,10,2651.55,29,Male,2025-12-13
+1826,Notebook,Stationery,BrandA,Eye Level,Hypermarket,East,1787.52,20,115,164451.84,46,Male,2025-08-15
+1827,Shampoo,Cosmetics,BrandC,Middle,Supermarket,North,116.36,15,108,10681.85,19,Female,2025-05-08
+1828,Milk,Dairy,BrandA,Middle,Convenience Store,South,687.49,5,37,24165.27,20,Female,2025-04-23
+1829,Shampoo,Cosmetics,BrandB,Middle,Convenience Store,West,1634.94,10,292,429662.23,45,Male,2025-11-17
+1830,Biscuits,Snacks,BrandD,Top,Supermarket,West,229.65,10,93,19221.71,31,Female,2025-01-08
+1831,Chips,Snacks,BrandA,Middle,Hypermarket,East,1322.76,10,193,229763.41,56,Female,2025-01-23
+1832,Paneer,Dairy,BrandC,Eye Level,Convenience Store,East,1586.69,30,296,328762.17,58,Other,2025-03-29
+1833,Mouse,Electronics,BrandD,Eye Level,Hypermarket,North,677.45,25,167,84850.61,56,Other,2025-12-08
+1834,Speaker,Electronics,BrandE,Eye Level,Supermarket,North,1031.83,25,124,95960.19,57,Male,2025-09-15
+1835,Coffee,Beverages,BrandA,Eye Level,Supermarket,East,1481.07,30,129,133740.62,49,Female,2025-11-14
+1836,Biscuits,Snacks,BrandE,Bottom,Convenience Store,East,763.98,25,24,13751.64,26,Female,2025-05-02
+1837,Tea,Beverages,BrandB,Top,Hypermarket,South,1051.33,15,152,135831.84,31,Other,2025-01-13
+1838,Cheese,Dairy,BrandD,Top,Supermarket,West,1606.87,25,118,142207.99,58,Male,2025-11-08
+1839,Curd,Dairy,BrandB,Middle,Supermarket,North,158.57,5,31,4669.89,29,Other,2025-11-21
+1840,Soap,Cosmetics,BrandC,Middle,Convenience Store,South,487.89,0,223,108799.47,33,Female,2025-08-28
+1841,Popcorn,Snacks,BrandB,Top,Hypermarket,North,512.96,10,300,138499.2,41,Female,2025-08-18
+1842,Mouse,Electronics,BrandD,Middle,Hypermarket,North,952.01,15,263,212821.84,42,Female,2025-11-09
+1843,Butter,Dairy,BrandC,Bottom,Hypermarket,East,1198.46,5,288,327898.66,47,Female,2025-03-31
+1844,Power Bank,Electronics,BrandD,Middle,Supermarket,South,1219.93,0,175,213487.75,18,Male,2025-03-11
+1845,Face Wash,Cosmetics,BrandD,Bottom,Hypermarket,North,993.08,15,207,174732.43,44,Male,2025-07-11
+1846,Curd,Dairy,BrandC,Top,Convenience Store,West,1865.62,5,104,184323.26,58,Other,2025-08-12
+1847,Tea,Beverages,BrandD,Eye Level,Hypermarket,North,1308.79,15,131,145733.77,62,Other,2025-05-05
+1848,Pen,Stationery,BrandB,Middle,Supermarket,North,537.43,15,80,36545.24,23,Other,2025-05-11
+1849,Marker,Stationery,BrandB,Bottom,Supermarket,West,807.38,20,46,29711.58,34,Other,2025-09-23
+1850,Water,Beverages,BrandC,Bottom,Convenience Store,North,1936.01,25,200,290401.5,24,Other,2025-10-28
+1851,Face Wash,Cosmetics,BrandC,Eye Level,Supermarket,West,1632.17,10,112,164522.74,18,Male,2025-07-23
+1852,Curd,Dairy,BrandB,Middle,Hypermarket,South,1059.42,25,152,120773.88,63,Male,2025-08-09
+1853,Namkeen,Snacks,BrandB,Middle,Supermarket,North,380.33,0,235,89377.55,65,Male,2025-10-18
+1854,Cookies,Snacks,BrandE,Eye Level,Convenience Store,South,1966.24,30,214,294542.75,23,Female,2025-08-14
+1855,Curd,Dairy,BrandE,Middle,Hypermarket,West,266.87,0,180,48036.6,61,Male,2025-01-16
+1856,Milk,Dairy,BrandB,Eye Level,Hypermarket,East,546.84,0,26,14217.84,49,Female,2025-02-19
+1857,Water,Beverages,BrandB,Top,Convenience Store,West,870.32,10,180,140991.84,42,Other,2025-06-11
+1858,Butter,Dairy,BrandD,Bottom,Convenience Store,South,1748.69,30,56,68548.65,19,Other,2025-01-02
+1859,Paneer,Dairy,BrandD,Bottom,Convenience Store,West,573.35,25,132,56761.65,60,Male,2025-07-08
+1860,Butter,Dairy,BrandD,Middle,Convenience Store,West,52.93,10,28,1333.84,43,Other,2025-06-16
+1861,Shampoo,Cosmetics,BrandC,Middle,Convenience Store,South,709.7,15,56,33781.72,51,Other,2025-07-17
+1862,Folder,Stationery,BrandE,Bottom,Supermarket,West,82.86,15,49,3451.12,25,Female,2025-06-04
+1863,Folder,Stationery,BrandA,Eye Level,Hypermarket,North,496.99,5,92,43436.93,28,Female,2025-12-04
+1864,Keyboard,Electronics,BrandA,Middle,Convenience Store,West,456.34,10,248,101855.09,23,Other,2025-12-10
+1865,Coffee,Beverages,BrandC,Bottom,Convenience Store,West,1864.92,30,38,49606.87,59,Other,2025-11-26
+1866,Cream,Cosmetics,BrandC,Eye Level,Supermarket,North,1620.73,5,137,210938.01,39,Other,2025-03-01
+1867,Soap,Cosmetics,BrandB,Top,Hypermarket,North,1494.34,0,298,445313.32,37,Male,2025-07-08
+1868,Perfume,Cosmetics,BrandC,Middle,Convenience Store,South,395.92,15,221,74373.57,24,Female,2025-06-13
+1869,Paneer,Dairy,BrandB,Bottom,Convenience Store,West,1707.68,10,79,121416.05,27,Other,2025-06-01
+1870,Coffee,Beverages,BrandC,Top,Convenience Store,North,1499.18,30,22,23087.37,35,Other,2025-11-03
+1871,Cream,Cosmetics,BrandD,Eye Level,Hypermarket,South,1269.53,5,258,311161.8,63,Male,2025-05-30
+1872,Pen,Stationery,BrandD,Top,Convenience Store,South,1406.81,0,96,135053.76,19,Other,2025-09-07
+1873,Keyboard,Electronics,BrandD,Eye Level,Convenience Store,East,856.43,15,183,133217.69,36,Other,2025-07-20
+1874,Popcorn,Snacks,BrandA,Top,Hypermarket,South,799.67,5,170,129146.7,54,Male,2025-10-25
+1875,Speaker,Electronics,BrandB,Eye Level,Hypermarket,North,596.34,5,112,63450.58,61,Male,2025-04-22
+1876,Speaker,Electronics,BrandC,Bottom,Supermarket,North,1365.3,5,33,42802.15,25,Other,2025-02-19
+1877,Pencil,Stationery,BrandA,Eye Level,Supermarket,West,1194.92,5,211,239521.71,49,Female,2025-05-06
+1878,Folder,Stationery,BrandA,Bottom,Convenience Store,West,1910.02,25,197,282205.46,35,Other,2025-12-21
+1879,Marker,Stationery,BrandA,Bottom,Convenience Store,South,747.3,0,64,47827.2,19,Other,2025-02-12
+1880,Perfume,Cosmetics,BrandB,Bottom,Hypermarket,West,969.41,25,53,38534.05,37,Other,2025-10-31
+1881,Chips,Snacks,BrandD,Eye Level,Hypermarket,West,663.95,25,280,139429.5,22,Other,2025-04-05
+1882,Perfume,Cosmetics,BrandA,Middle,Convenience Store,South,1433.22,30,68,68221.27,18,Other,2025-04-17
+1883,Keyboard,Electronics,BrandB,Eye Level,Convenience Store,East,263.63,5,299,74884.1,20,Male,2025-04-16
+1884,Paneer,Dairy,BrandA,Middle,Hypermarket,North,611.18,20,92,44982.85,51,Female,2025-08-05
+1885,Folder,Stationery,BrandC,Top,Convenience Store,South,900.94,20,256,184512.51,62,Male,2025-12-22
+1886,Notebook,Stationery,BrandB,Middle,Convenience Store,South,489.46,5,77,35804.0,55,Female,2025-06-03
+1887,Coffee,Beverages,BrandC,Top,Hypermarket,South,1463.63,15,43,53495.68,43,Female,2025-10-09
+1888,Butter,Dairy,BrandB,Eye Level,Convenience Store,East,1359.52,25,78,79531.92,58,Other,2025-10-02
+1889,Pen,Stationery,BrandB,Bottom,Supermarket,East,1434.6,20,266,305282.88,45,Female,2025-11-06
+1890,Paneer,Dairy,BrandA,Bottom,Supermarket,East,510.05,10,68,31215.06,58,Male,2025-09-30
+1891,Juice,Beverages,BrandA,Eye Level,Hypermarket,South,1560.58,5,120,177906.12,42,Male,2025-05-21
+1892,Cheese,Dairy,BrandE,Top,Convenience Store,East,1062.42,10,255,243825.39,53,Female,2025-02-18
+1893,Shampoo,Cosmetics,BrandB,Top,Convenience Store,West,1795.21,5,167,284810.07,48,Other,2025-07-19
+1894,Cookies,Snacks,BrandB,Middle,Hypermarket,East,38.8,20,84,2607.36,21,Other,2025-12-03
+1895,Pencil,Stationery,BrandD,Middle,Hypermarket,East,1420.85,5,219,295607.84,47,Other,2025-12-28
+1896,Juice,Beverages,BrandA,Top,Hypermarket,East,1906.18,20,122,186043.17,23,Other,2025-06-06
+1897,Milk,Dairy,BrandA,Eye Level,Convenience Store,East,1465.31,0,89,130412.59,53,Female,2025-10-22
+1898,Curd,Dairy,BrandD,Eye Level,Hypermarket,North,1360.53,25,74,75509.42,57,Male,2025-09-03
+1899,Notebook,Stationery,BrandB,Eye Level,Convenience Store,West,1434.04,25,278,298997.34,28,Other,2025-06-26
+1900,Soap,Cosmetics,BrandC,Eye Level,Hypermarket,West,366.13,10,73,24054.74,42,Male,2025-09-21
+1901,Tea,Beverages,BrandA,Top,Hypermarket,West,689.16,25,132,68226.84,36,Female,2025-10-04
+1902,Chips,Snacks,BrandC,Eye Level,Hypermarket,West,1481.29,20,206,244116.59,21,Female,2025-04-22
+1903,Paneer,Dairy,BrandA,Top,Convenience Store,South,931.5,10,186,155933.1,43,Female,2025-02-24
+1904,Milk,Dairy,BrandE,Middle,Hypermarket,North,872.99,5,48,39808.34,49,Male,2025-09-28
+1905,Cookies,Snacks,BrandC,Bottom,Supermarket,East,467.67,15,196,77913.82,24,Female,2025-06-03
+1906,Marker,Stationery,BrandC,Middle,Supermarket,South,340.43,10,227,69549.85,36,Male,2025-01-03
+1907,Namkeen,Snacks,BrandB,Bottom,Convenience Store,East,853.69,10,21,16134.74,25,Female,2025-03-24
+1908,Power Bank,Electronics,BrandD,Bottom,Supermarket,North,1001.22,25,70,52564.05,24,Male,2025-06-16
+1909,Biscuits,Snacks,BrandC,Bottom,Convenience Store,North,701.36,0,126,88371.36,45,Female,2025-01-27
+1910,Juice,Beverages,BrandE,Middle,Convenience Store,South,982.14,30,224,153999.55,33,Female,2025-05-07
+1911,Butter,Dairy,BrandD,Eye Level,Convenience Store,South,1988.63,5,224,423180.46,30,Other,2025-04-12
+1912,Pen,Stationery,BrandC,Middle,Supermarket,West,474.18,5,210,94598.91,19,Other,2025-01-20
+1913,Chips,Snacks,BrandC,Middle,Supermarket,East,1731.41,15,213,313471.78,45,Female,2025-09-26
+1914,Paneer,Dairy,BrandC,Top,Hypermarket,East,865.6,0,160,138496.0,63,Female,2025-02-26
+1915,Cookies,Snacks,BrandA,Top,Supermarket,East,1792.31,5,25,42567.36,48,Female,2025-01-01
+1916,Shampoo,Cosmetics,BrandC,Top,Supermarket,North,873.2,10,256,201185.28,60,Male,2025-07-06
+1917,Folder,Stationery,BrandC,Top,Supermarket,East,1545.52,5,174,255474.46,31,Other,2025-07-04
+1918,Headphones,Electronics,BrandE,Middle,Supermarket,West,1776.64,5,66,111395.33,24,Male,2025-01-22
+1919,Perfume,Cosmetics,BrandE,Middle,Supermarket,South,698.94,25,247,129478.64,30,Female,2025-04-14
+1920,Face Wash,Cosmetics,BrandC,Bottom,Convenience Store,North,1785.34,30,291,363673.76,45,Male,2025-06-27
+1921,Speaker,Electronics,BrandE,Top,Convenience Store,South,1057.05,20,16,13530.24,36,Male,2025-03-27
+1922,Shampoo,Cosmetics,BrandD,Eye Level,Supermarket,West,1592.89,25,102,121856.08,50,Female,2025-07-23
+1923,Cream,Cosmetics,BrandA,Middle,Convenience Store,South,813.68,10,110,80554.32,55,Other,2025-04-05
+1924,Paneer,Dairy,BrandC,Middle,Hypermarket,East,921.77,25,273,188732.41,53,Male,2025-05-13
+1925,Biscuits,Snacks,BrandB,Top,Supermarket,East,110.31,5,154,16138.35,21,Other,2025-01-21
+1926,Biscuits,Snacks,BrandE,Top,Hypermarket,North,1078.5,0,182,196287.0,63,Other,2025-11-20
+1927,Coffee,Beverages,BrandA,Eye Level,Hypermarket,South,828.52,20,155,102736.48,64,Female,2025-06-16
+1928,Cookies,Snacks,BrandD,Top,Convenience Store,South,1943.78,20,59,91746.42,46,Male,2025-12-19
+1929,Juice,Beverages,BrandD,Middle,Convenience Store,West,423.76,25,207,65788.74,41,Male,2025-03-21
+1930,Headphones,Electronics,BrandB,Bottom,Convenience Store,South,1002.0,15,99,84318.3,59,Female,2025-04-01
+1931,Butter,Dairy,BrandE,Middle,Supermarket,South,342.58,5,206,67042.91,22,Female,2025-12-18
+1932,Namkeen,Snacks,BrandB,Eye Level,Convenience Store,North,1820.08,15,56,86635.81,42,Female,2025-09-27
+1933,Milk,Dairy,BrandB,Eye Level,Hypermarket,South,1656.59,30,27,31309.55,58,Other,2025-03-09
+1934,Milk,Dairy,BrandA,Middle,Supermarket,West,1916.08,0,282,540334.56,54,Female,2025-06-23
+1935,Cookies,Snacks,BrandE,Top,Convenience Store,North,676.88,5,129,82951.64,19,Male,2025-01-29
+1936,Paneer,Dairy,BrandA,Middle,Supermarket,South,607.54,20,217,105468.94,45,Female,2025-03-14
+1937,Cookies,Snacks,BrandA,Bottom,Supermarket,North,1317.62,5,201,251599.54,32,Male,2025-12-18
+1938,Juice,Beverages,BrandA,Eye Level,Convenience Store,South,171.05,10,65,10006.43,29,Female,2025-07-04
+1939,Face Wash,Cosmetics,BrandC,Top,Hypermarket,North,1207.23,25,222,201003.79,35,Female,2025-03-18
+1940,Pencil,Stationery,BrandB,Middle,Hypermarket,South,1867.11,30,44,57506.99,42,Female,2025-01-02
+1941,Marker,Stationery,BrandC,Middle,Supermarket,East,1633.01,0,300,489903.0,26,Male,2025-08-07
+1942,Keyboard,Electronics,BrandD,Top,Supermarket,South,652.25,15,251,139157.54,42,Female,2025-12-22
+1943,Cream,Cosmetics,BrandB,Bottom,Supermarket,West,1086.72,15,277,255868.22,51,Other,2025-10-02
+1944,Pen,Stationery,BrandB,Eye Level,Hypermarket,West,1412.12,5,190,254887.66,26,Male,2025-01-02
+1945,Butter,Dairy,BrandD,Middle,Convenience Store,West,734.5,30,76,39075.4,33,Male,2025-05-31
+1946,Chips,Snacks,BrandA,Bottom,Hypermarket,North,1499.05,0,78,116925.9,62,Male,2025-07-13
+1947,Folder,Stationery,BrandB,Top,Supermarket,North,166.07,30,85,9881.16,33,Male,2025-01-16
+1948,Paneer,Dairy,BrandD,Middle,Convenience Store,East,1665.51,15,81,114670.36,48,Female,2025-04-04
+1949,Pencil,Stationery,BrandA,Middle,Supermarket,North,899.07,25,11,7417.33,56,Male,2025-05-27
+1950,Soap,Cosmetics,BrandD,Top,Convenience Store,East,41.52,30,221,6423.14,63,Male,2025-12-15
+1951,Mouse,Electronics,BrandB,Middle,Hypermarket,North,558.22,0,272,151835.84,32,Female,2025-07-13
+1952,Popcorn,Snacks,BrandC,Bottom,Hypermarket,South,1218.07,0,244,297209.08,21,Female,2025-09-02
+1953,Marker,Stationery,BrandC,Top,Supermarket,South,405.57,0,58,23523.06,36,Male,2025-02-09
+1954,Shampoo,Cosmetics,BrandB,Middle,Convenience Store,North,149.33,20,10,1194.64,33,Female,2025-06-08
+1955,Paneer,Dairy,BrandA,Top,Supermarket,East,1138.3,20,252,229481.28,18,Female,2025-01-24
+1956,Soft Drink,Beverages,BrandB,Eye Level,Hypermarket,West,1010.43,10,205,186424.33,65,Other,2025-07-02
+1957,Paneer,Dairy,BrandD,Bottom,Convenience Store,North,1618.84,5,17,26144.27,36,Male,2025-10-28
+1958,Namkeen,Snacks,BrandB,Middle,Convenience Store,South,175.93,25,52,6861.27,50,Other,2025-04-29
+1959,Folder,Stationery,BrandB,Top,Hypermarket,East,1309.76,30,179,164112.93,57,Female,2025-08-18
+1960,Curd,Dairy,BrandE,Bottom,Supermarket,North,493.44,20,43,16974.34,27,Female,2025-03-20
+1961,Shampoo,Cosmetics,BrandC,Middle,Supermarket,East,1007.85,15,165,141350.96,54,Female,2025-03-28
+1962,Tea,Beverages,BrandD,Top,Hypermarket,South,160.85,25,240,28953.0,25,Other,2025-05-13
+1963,Headphones,Electronics,BrandE,Middle,Hypermarket,East,739.67,10,210,139797.63,50,Other,2025-07-29
+1964,Juice,Beverages,BrandC,Eye Level,Convenience Store,North,185.31,15,264,41583.56,65,Male,2025-08-19
+1965,Folder,Stationery,BrandD,Middle,Convenience Store,West,35.73,30,58,1450.64,22,Male,2025-05-29
+1966,Speaker,Electronics,BrandE,Bottom,Supermarket,North,1344.92,10,243,294134.0,29,Other,2025-08-28
+1967,Curd,Dairy,BrandA,Top,Hypermarket,West,1541.07,5,210,307443.47,31,Other,2025-06-18
+1968,Marker,Stationery,BrandB,Bottom,Supermarket,South,246.37,15,24,5025.95,38,Other,2025-10-07
+1969,Paneer,Dairy,BrandD,Middle,Supermarket,South,1552.93,0,190,295056.7,19,Other,2025-08-09
+1970,Keyboard,Electronics,BrandA,Top,Hypermarket,North,519.1,5,47,23177.81,37,Other,2025-03-14
+1971,Speaker,Electronics,BrandA,Eye Level,Hypermarket,East,1059.06,25,137,108818.42,37,Male,2025-04-05
+1972,Cookies,Snacks,BrandB,Bottom,Hypermarket,West,1885.04,15,248,397366.43,18,Other,2025-10-02
+1973,Soap,Cosmetics,BrandC,Eye Level,Supermarket,West,174.06,25,79,10313.06,27,Female,2025-06-15
+1974,Tea,Beverages,BrandE,Eye Level,Hypermarket,South,1588.19,25,213,253713.35,58,Female,2025-05-15
+1975,Folder,Stationery,BrandE,Middle,Convenience Store,West,212.94,5,101,20431.59,31,Female,2025-08-04
+1976,Biscuits,Snacks,BrandC,Eye Level,Hypermarket,East,1944.05,20,12,18662.88,50,Male,2025-07-09
+1977,Marker,Stationery,BrandC,Top,Convenience Store,West,1304.85,15,216,239570.46,51,Female,2025-07-30
+1978,Cheese,Dairy,BrandE,Middle,Convenience Store,West,928.47,10,95,79384.19,42,Female,2025-10-11
+1979,Marker,Stationery,BrandA,Eye Level,Convenience Store,North,1275.53,25,55,52615.61,57,Female,2025-02-14
+1980,Curd,Dairy,BrandD,Eye Level,Convenience Store,East,1504.89,20,283,340707.1,44,Male,2025-02-21
+1981,Namkeen,Snacks,BrandA,Top,Hypermarket,West,1112.14,0,105,116774.7,59,Other,2025-08-29
+1982,Marker,Stationery,BrandC,Top,Convenience Store,East,35.06,10,119,3754.93,37,Female,2025-09-17
+1983,Pen,Stationery,BrandA,Middle,Hypermarket,East,28.23,15,21,503.91,39,Male,2025-01-08
+1984,Cream,Cosmetics,BrandD,Eye Level,Convenience Store,West,498.83,15,103,43672.57,26,Other,2025-11-12
+1985,Mouse,Electronics,BrandD,Middle,Supermarket,South,818.18,10,269,198081.38,50,Male,2025-03-23
+1986,Folder,Stationery,BrandB,Top,Supermarket,North,1572.88,30,138,151940.21,23,Male,2025-10-11
+1987,Headphones,Electronics,BrandE,Eye Level,Convenience Store,West,1265.21,20,83,84009.94,19,Other,2025-01-15
+1988,Pen,Stationery,BrandB,Middle,Hypermarket,South,1967.16,25,188,277369.56,52,Male,2025-04-06
+1989,Marker,Stationery,BrandA,Middle,Convenience Store,North,1545.38,25,31,35930.09,58,Other,2025-05-21
+1990,Milk,Dairy,BrandB,Top,Hypermarket,South,929.07,20,67,49798.15,23,Male,2025-02-24
+1991,Keyboard,Electronics,BrandD,Eye Level,Hypermarket,North,1827.18,5,205,355843.3,49,Other,2025-02-21
+1992,Cheese,Dairy,BrandD,Middle,Supermarket,East,1380.93,15,165,193675.43,18,Male,2025-11-21
+1993,Folder,Stationery,BrandC,Top,Hypermarket,North,1269.8,30,21,18666.06,28,Other,2025-03-02
+1994,Pencil,Stationery,BrandA,Middle,Supermarket,East,1854.63,5,20,35237.97,25,Male,2025-10-02
+1995,Butter,Dairy,BrandC,Bottom,Supermarket,North,294.36,0,69,20310.84,40,Other,2025-05-18
+1996,Face Wash,Cosmetics,BrandE,Bottom,Supermarket,East,944.75,30,258,170621.85,29,Male,2025-08-12
+1997,Pencil,Stationery,BrandB,Bottom,Hypermarket,West,1924.51,0,164,315619.64,45,Other,2025-03-26
+1998,Pencil,Stationery,BrandD,Bottom,Supermarket,East,1635.47,20,60,78502.56,41,Other,2025-11-07
+1999,Curd,Dairy,BrandE,Bottom,Hypermarket,East,351.15,0,266,93405.9,43,Male,2025-05-10
+2000,Cheese,Dairy,BrandB,Eye Level,Supermarket,East,1621.9,15,100,137861.5,41,Male,2025-07-03
