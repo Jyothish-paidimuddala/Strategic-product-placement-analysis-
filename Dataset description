@@ -1,0 +1,45 @@
+
+# Dataset Description
+
+## Project Title
+
+**Strategic Product Placement Analysis Using Tableau**
+
+---
+
+# 1. Introduction
+
+This dataset has been created for the SmartBridge Virtual Internship project titled **"Strategic Product Placement Analysis Using Tableau."**
+
+The dataset represents retail sales transactions from different store types, regions, and product categories. It is designed to analyze the effect of product placement, pricing, discounts, and customer demographics on sales performance using Tableau dashboards.
+
+The dataset enables Business Intelligence analysis through interactive visualizations and supports data-driven decision-making for retail businesses.
+
+---
+
+# 2. Dataset Overview
+
+| Attribute | Value |
+|-----------|--------|
+| Dataset Name | Retail Product Placement Dataset |
+| File Format | CSV (.csv), Excel (.xlsx) |
+| Number of Records | 1000 |
+| Number of Columns | 14 |
+| Data Type | Structured |
+| Domain | Retail Business |
+| Tool Used | Tableau Desktop / Tableau Public |
+
+---
+
+# 3. Dataset Columns
+
+| Column Name | Data Type | Description |
+|--------------|-----------|-------------|
+| Product_ID | Integer | Unique identifier for each product |
+| Product_Name | Text | Name of the product |
+| Category | Text | Product category |
+| Brand | Text | Product brand |
+| Shelf_Position | Text | Product placement on the shelf |
+| Store_Type | Text | Type of retail store |
+| Region | Text | Sales region |
+| Price | Decimal | Selling price of the product
