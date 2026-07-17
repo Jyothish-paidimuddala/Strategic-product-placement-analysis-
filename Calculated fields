@@ -1,0 +1,215 @@
+# Calculated Fields
+
+## Project Title
+
+**Strategic Product Placement Analysis Using Tableau**
+
+---
+
+# Introduction
+
+Calculated fields in Tableau are custom formulas used to create new measures and dimensions from the existing dataset. They help perform business calculations, create KPIs, categorize products, and enhance dashboard interactivity.
+
+---
+
+# 1. Total Revenue
+
+### Formula
+
+```tableau
+SUM([Revenue])
+```
+
+### Description
+
+Calculates the total revenue generated from all products.
+
+---
+
+# 2. Total Units Sold
+
+### Formula
+
+```tableau
+SUM([Units_Sold])
+```
+
+### Description
+
+Calculates the total quantity of products sold.
+
+---
+
+# 3. Average Selling Price
+
+### Formula
+
+```tableau
+AVG([Price])
+```
+
+### Description
+
+Calculates the average selling price of all products.
+
+---
+
+# 4. Average Discount
+
+### Formula
+
+```tableau
+AVG([Discount])
+```
+
+### Description
+
+Calculates the average discount percentage given on products.
+
+---
+
+# 5. Revenue Per Unit
+
+### Formula
+
+```tableau
+SUM([Revenue]) / SUM([Units_Sold])
+```
+
+### Description
+
+Shows the average revenue generated from each unit sold.
+
+---
+
+# 6. Estimated Profit
+
+### Formula
+
+```tableau
+SUM([Revenue]) * 0.25
+```
+
+### Description
+
+Assumes a 25% profit margin and estimates total profit.
+
+---
+
+# 7. Total Products
+
+### Formula
+
+```tableau
+COUNTD([Product_ID])
+```
+
+### Description
+
+Counts the total number of unique products.
+
+---
+
+# 8. Total Customers (Approximation)
+
+### Formula
+
+```tableau
+COUNT([Customer_Age])
+```
+
+### Description
+
+Counts the total customer transactions in the dataset.
+
+---
+
+# 9. Average Customer Age
+
+### Formula
+
+```tableau
+AVG([Customer_Age])
+```
+
+### Description
+
+Calculates the average age of customers.
+
+---
+
+# 10. Sales Category
+
+### Formula
+
+```tableau
+IF SUM([Units_Sold]) >= 200 THEN "High Sales"
+ELSEIF SUM([Units_Sold]) >= 100 THEN "Medium Sales"
+ELSE "Low Sales"
+END
+```
+
+### Description
+
+Categorizes products based on the number of units sold.
+
+---
+
+# 11. Revenue Category
+
+### Formula
+
+```tableau
+IF SUM([Revenue]) >= 100000 THEN "High Revenue"
+ELSEIF SUM([Revenue]) >= 50000 THEN "Medium Revenue"
+ELSE "Low Revenue"
+END
+```
+
+### Description
+
+Groups products according to revenue generated.
+
+---
+
+# 12. Discount Category
+
+### Formula
+
+```tableau
+IF [Discount] >= 20 THEN "High Discount"
+ELSEIF [Discount] >= 10 THEN "Medium Discount"
+ELSE "Low Discount"
+END
+```
+
+### Description
+
+Classifies products based on discount percentage.
+
+---
+
+# 13. Customer Age Group
+
+### Formula
+
+```tableau
+IF [Customer_Age] <= 20 THEN "Teen"
+ELSEIF [Customer_Age] <= 35 THEN "Young Adult"
+ELSEIF [Customer_Age] <= 50 THEN "Adult"
+ELSE "Senior"
+END
+```
+
+### Description
+
+Creates customer age groups for demographic analysis.
+
+---
+
+# 14. Profit Margin (%)
+
+### Formula
+
+```tableau
+([
